@@ -24,6 +24,7 @@ images:
       <i>Blechnum nudum</i>, <i>Coprosma quadrifolia</i>. <i>Dicksonia 
       antarctica</i> and <i>Gahnia sieberiana</i> fringing creek. Walsh Creek, 
       Upper Yarra Catchment.</b>
+permalink: /pages/eastern-highlands
 ---
 
 <markdown-alert-component :type="warning.type" :content="warning.content"></markdown-alert-component>

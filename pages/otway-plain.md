@@ -25,6 +25,7 @@ images:
       marginata</i>, <i>Leptospermum continentale</i> and <i>L. myrsinoides</i>. 
       <i>Eucalyptus willisii</i> an occasional emergent. <i>Xanthorrhoea 
       australis</i> in background. Bald Hills, Anglesea.</b>
+permalink: /pages/otway-plain
 ---
 
 <markdown-alert-component :type="warning.type" :content="warning.content"></markdown-alert-component>

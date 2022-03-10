@@ -15,6 +15,7 @@ images:
       <i>Phebalium squameum</i> and <i>Prostanthera lasianthos</i>. 
       <i>Eucalyptus regnans</i> (not pictured) forms canopy of surrounding 
       forest. Erskine Falls, near Lorne.</b>
+permalink: /pages/otway-range
 ---
 
 ## Location

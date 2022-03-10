@@ -28,6 +28,7 @@ images:
       lautus</i> surrounding small crater lake, with <i>Carex appressa</i> 
       around margin and <i>Wolffia australiana</i> on surface. Floating Islands 
       Reserve near Camperdown.</b>
+permalink: /pages/victorian-volcanic-plain
 ---
 
 ## Location

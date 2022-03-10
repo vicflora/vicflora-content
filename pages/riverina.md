@@ -23,6 +23,7 @@ images:
       <i>Acacia acinacea</i>, <i>Eremophila longifolia</i>, <i>Eutaxia 
       microphylla</i> and grasses (<i>Danthonia</i> spp., <i>Stipa</i> spp. and 
       exotics). Katamatire Reserve.</b>
+permalink: /pages/riverina
 ---
 
 <markdown-alert-component :type="warning.type" :content="warning.content"></markdown-alert-component>

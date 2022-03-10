@@ -18,6 +18,7 @@ images:
       <i>Stipa stipoides</i>. <i>Leptospermum laevigatum</i> thicket and 
       <i>Allocasuarina verticillata</i>, <i>Eucalyptus baxteri</i> woodland in 
       background. East coast, Whisky Bay.</b>
+permalink: /pages/wilsons-promontory
 ---
 
 ## Location

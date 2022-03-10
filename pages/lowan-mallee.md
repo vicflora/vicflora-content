@@ -10,6 +10,7 @@ images:
       uncinata</i> and <i>Baeckea behrii</i> on and flanking laterite outcrop, 
       descending to loamy sand mallee dominated by <i>Eucalyptus costata</i>, 
       <i>Callitris verrucosa</i>. Red Bluff, Big Desert.</b>
+permalink: /pages/lowan-mallee
 ---
 
 ## Location

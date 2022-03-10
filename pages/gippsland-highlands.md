@@ -24,6 +24,7 @@ images:
       trinervia</i>, <i>Cyathea australis</i>, <i>Olearia argophylla</i> and 
       <i>Tetrarrhena juncea</i>. Tarra River valley, Tarra–Bulga National 
       Park.</b>
+permalink: /pages/gippsland-highlands
 ---
 
 <markdown-alert-component :srtypec="warning.type" :caption="warning.content"></markdown-alert-component>

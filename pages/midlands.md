@@ -23,6 +23,7 @@ images:
       <b>Midlands; dry open-forest, <i>Eucalyptus microcarpa</i> and <i>E.
       tricarpa</i>, with open understorey, including <i>Acacia acinacea</i>,
       <i>A. pycnantha</i>, <i>Cassinia arcuata</i>. Whroo-Rushworth area.</b>
+permalink: /pages/midlands
 ---
 
 <markdown-alert-component :type="warning.type" :content="warning.content"></markdown-alert-component>

@@ -30,6 +30,7 @@ images:
       (Salt Paperbark) with low succulent shrubs and herbs, including 
       <i>Disphyma</i>, <i>Frankenia</i>, <i>Halosarcia</i>, <i>Sarcocornia</i>. 
       Dune mallee upslope from halophytic shrubland margin. Pink Lakes.</b>
+permalink: /pages/murray-mallee
 ---
 
 <markdown-alert-component :type="warning.type" :content="warning.content"></markdown-alert-component>

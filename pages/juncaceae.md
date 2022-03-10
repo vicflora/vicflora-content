@@ -2,7 +2,7 @@
 layout: page-toc
 category: Multi-access keys
 title: Multi-access key to the Juncaceae of Victoria
-permalink: /keys/juncaceae
+permalink: /pages/juncaceae
 ---
 
 ## Introduction

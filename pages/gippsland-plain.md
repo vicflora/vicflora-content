@@ -18,6 +18,7 @@ images:
       <i>Suaeda australis</i>, merging seaward to <i>Avicennia marina</i> zone, 
       with intervening tussocks of <i>Stipa stipoides</i> and <i>Gahnia 
       trifida</i>. Toora, Corner Inlet (Wilsons Promontory in background).</b>
+permalink: /pages/gippsland-plain
 ---
 
 ## Location
