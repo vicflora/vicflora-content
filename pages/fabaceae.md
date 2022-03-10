@@ -2,7 +2,7 @@
 layout: page-toc
 category: Multi-access keys
 title: Multi-access key to the Fabaceae of Victoria (excluding Acacia)
-permalink: /keys/fabaceae
+permalink: /pages/fabaceae
 ---
 
 ## Introduction

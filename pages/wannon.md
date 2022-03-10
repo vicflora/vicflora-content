@@ -5,6 +5,7 @@ regions:
   - Glenelg Plain
   - Bridgewater
   - Dundas Tablelands
+permalink: /pages/wannon
 ---
 
 ## Location

@@ -15,6 +15,7 @@ images:
       Arapiles, with intervening wheat paddocks. <i>Callitris glaucophylla</i>, 
       <i>Eucalyptus baxteri</i> and <i>E. goniocalyx</i> dry forests on the 
       northern approaches of Mt Arapiles.></b>
+permalink: /pages/grampians
 ---
 
 <markdown-alert-component :type="warning.type" :content="warning.content"></markdown-alert-component>

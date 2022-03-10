@@ -2,7 +2,7 @@
 layout: page
 title: Acknowledgements
 category: About
-permalink: /acknowledgements
+permalink: /pages/acknowledgements
 ---
 
 Contributions by the original _Flora of Victoria_ writers and editors are acknowledged at the bottom of profile pages.  Images sourced from _Flora of Victoria_ are acknowledged in figure legends.

@@ -3,6 +3,7 @@ title: Wimmera
 category: Bioregions
 regions:
   - Wimmera
+permalink: /pages/wimmera
 ---
 
 ## Location

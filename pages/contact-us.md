@@ -2,7 +2,7 @@
 layout: page-toc
 title: Contact us
 category: About
-permalink: /contact-us
+permalink: /pages/contact-us
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer a mattis libero, ac porttitor risus. Aenean at enim nec quam cursus malesuada vitae eget risus. Donec blandit felis ut urna blandit, sed tincidunt elit condimentum. Suspendisse fermentum aliquam molestie. Sed semper nunc malesuada mauris interdum, eget laoreet erat dictum. Donec ut euismod nisi. Maecenas ut elit efficitur, elementum ligula sed, aliquam lacus. Suspendisse vulputate sollicitudin convallis. In pellentesque tortor turpis, in mollis est luctus sed. Aenean vestibulum efficitur finibus.

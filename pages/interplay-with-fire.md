@@ -51,6 +51,7 @@ images:
       A recently burnt cone of the serotinous species <i>Banksia ornata</i>, 
       showing the release of the two, winged seeds per follicle in the Little 
       Desert National Park.
+permalink: interplay-with-fire
 ---
 
 <markdown-alert-component :type="warning.type" :content="warning.content"></markdown-alert-component>

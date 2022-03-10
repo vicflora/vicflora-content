@@ -34,6 +34,7 @@ images:
       of <i>Atherospermum moschatum</i>, with <i>Dicksonia antarctica</i> and 
       <i>Elaeocarpus holopetalus</i>. <i>Eucalyptus denticulata</i> emergent. 
       Errinundra plateau.
+permalink: /pages/east-gippsland
 ---
 
 <markdown-alert-component :type="warning.type" :content="warning.content"></markdown-alert-component>
