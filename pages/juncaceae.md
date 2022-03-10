@@ -7,7 +7,7 @@ permalink: /keys/juncaceae
 
 ## Introduction
 
-The multi-access key to the Juncaceae of Victoria is a key to all 61 Juncaceae (Rush) taxa that are known to occur in Victoria, both native and introduced. It contains 18 characters to help distinguish taxa from each other with, including place of occurrence, stature and growth form, and several morphological features both vegetative and reproductive. It differs from the dichotomous keys provided in VicFlora by giving the user the flexibility to choose from one of the 18 characters provided rather than the user having to commit to investigate the particular features being questioned in the dichotomous keys. This has the benefit of:
+The multi-access key to the Juncaceae of Victoria is a key to all 61 Juncaceae (Rush) taxa that are known to occur in Victoria, both native and introduced. It contains 18 characters to help distinguish taxa from each other with, including place of occurrence, stature and growth form, and several morphological features both vegetative and reproductive.<!--more--> It differs from the dichotomous keys provided in VicFlora by giving the user the flexibility to choose from one of the 18 characters provided rather than the user having to commit to investigate the particular features being questioned in the dichotomous keys. This has the benefit of:
 
 1. avoiding having to answer questions relating to a feature that may not be present in the sample when being identified,
 
