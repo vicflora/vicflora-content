@@ -1,5 +1,6 @@
 ---
 title: Wilsons Promontory
+category: Bioregions
 regions:
   - Wilsons Promontory
 images:

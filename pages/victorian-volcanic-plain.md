@@ -1,5 +1,6 @@
 ---
 title: Victorian Volcanic Plain
+category: Bioregions
 regions:
   - Victorian Volcanic Plain
 images:

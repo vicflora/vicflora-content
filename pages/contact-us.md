@@ -1,6 +1,7 @@
 ---
 layout: page-toc
 title: Contact us
+category: About
 permalink: /contact-us
 ---
 

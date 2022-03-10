@@ -1,5 +1,6 @@
 ---
 title: Wannon
+category: Bioregions
 regions:
   - Glenelg Plain
   - Bridgewater

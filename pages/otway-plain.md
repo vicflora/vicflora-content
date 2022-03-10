@@ -1,5 +1,6 @@
 ---
 title: Otway Plain
+category: Bioregions
 warning:
   type: warning
   content: >

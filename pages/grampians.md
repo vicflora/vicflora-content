@@ -1,5 +1,6 @@
 ---
 title: Grampians
+category: Bioregions
 warning:
   type: warning
   content: >

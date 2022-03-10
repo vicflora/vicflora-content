@@ -1,5 +1,6 @@
 ---
 title: Lowan Mallee
+category: Bioregions
 regions:
   - Lowan Mallee
 images:

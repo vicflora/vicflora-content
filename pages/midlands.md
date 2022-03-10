@@ -1,5 +1,6 @@
 ---
 title: Midlands
+category: Bioregions
 warning:
   type: warning
   content: >

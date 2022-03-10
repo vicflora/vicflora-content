@@ -1,5 +1,6 @@
 ---
 title: Gippsland Highlands
+category: Bioregions 
 warning:
   type: warning
   content: >

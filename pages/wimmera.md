@@ -1,5 +1,6 @@
 ---
 title: Wimmera
+category: Bioregions
 regions:
   - Wimmera
 ---

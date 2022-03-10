@@ -1,6 +1,7 @@
 ---
 layout: page-toc
 title: Copyright and reproduction
+category: About
 permalink: /copyright
 ---
 

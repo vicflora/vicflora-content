@@ -1,5 +1,6 @@
 ---
 title: Otway Range
+category: Bioregions
 regions:
   - Otway Ranges
 images:

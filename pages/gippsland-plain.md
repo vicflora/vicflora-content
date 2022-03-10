@@ -1,5 +1,6 @@
 ---
 title: Gippsland Plain
+category: Bioregions
 regions:
   - Gippsland Plain
 images:

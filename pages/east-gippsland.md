@@ -1,5 +1,6 @@
 ---
 title: East Gippsland
+category: Bioregions
 warning:
   type: warning
   content: >

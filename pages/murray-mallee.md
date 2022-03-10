@@ -1,5 +1,6 @@
 ---
 title: Murray Mallee
+category: Bioregions
 warning:
   type: warning
   content: >

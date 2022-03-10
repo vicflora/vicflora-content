@@ -1,5 +1,6 @@
 ---
 title: Snowfields
+category: Bioregions
 regions: ["Victorian Alps", "Snowy Mountains"]
 warning:
   type: warning

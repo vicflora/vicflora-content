@@ -1,5 +1,6 @@
 ---
 title: Riverina
+category: Bioregions
 warning:
   type: warning
   content: >

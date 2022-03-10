@@ -1,5 +1,6 @@
 ---
 title: Eastern Highlands
+category: Bioregions
 warning:
   type: warning
   content: >

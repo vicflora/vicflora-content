@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Acknowledgements
+category: About
 permalink: /acknowledgements
 ---
 
