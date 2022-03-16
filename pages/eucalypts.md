@@ -3,6 +3,10 @@ layout: page-toc
 category: Multi-access keys
 title: Multi-access key to the Eucalypts of Victoria
 permalink: /pages/eucalypts
+taxonomicScope: 
+  - Eucalyptus
+  - Corymbia
+  - Angophora
 ---
 
 ## Introduction

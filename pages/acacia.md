@@ -2,6 +2,8 @@
 category: Multi-access keys
 title: Multi-access key to the Acacia of Victoria
 permalink: /pages/acacia
+taxonomicScope: 
+  - Acacia
 ---
 
 ## Introduction
