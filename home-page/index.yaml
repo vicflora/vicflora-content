@@ -1,27 +1,28 @@
 title: Home page
 intro: >
-VICFLORA is a comprehensive and current guide to the wild plants of Victoria. The species profiles and identification tools that make up this richly illustrated resource are provided by Royal Botanic Gardens Victoria free-of-charge for the use of land managers, scientists, students and anyone else with an interest in the Victorian flora. The platform currently provides resources for vascular plants (including seed plants and ferns) and bryophytes (mosses, liverworts and hornworts).
-highlights:
-  - index: 0
-    img: https://vicflora.rbg.vic.gov.au/images/home/lucid-logo-icon-150.png
-    text: >
-      <h5><b><span class="m-hightlight-new">New</span> multi-access keys</b></h5>
-      New multi-access keys to <a href="/matrix-keys/fabaceae">Fabaceae</a> (excl. Acacia),
-      <a href="/matrix-keys/cyperaceae"/>Cyperaceae</a> and  
-      <a href="/matrix-keys/juncaceae"/>Juncaceae</a> in Victoria.
-  - index: 1
-    img: https://vicflora.rbg.vic.gov.au/images/home/eucalcom.jpg
-    text: >
-      <b><a href="/matrix-keys/eucalypts">Multi-access key to the Eucalypts</a></b>
-      <p>Check out our new multi-access key to the 159 species and infraspecific 
-      taxa of <i>Eucalyptus</i>, <i>Angophora</i> and <i>Corymbia</i> in 
-      Victoria.</p>
-  - index: 2
-    img: https://vicflora.rbg.vic.gov.au/images/home/microwal.jpg
-    text: >
-      <b><a href="/matrix-keys/asteraceae">Multi-access key to the Asteraceae</a></b> 
-      <p>Check out our new multi-access key to the 618 species and infraspecific 
-      taxa of Asteraceae in Victoria.</p>
+  VICFLORA is a comprehensive and current guide to the wild plants of Victoria. 
+  The species profiles and identification tools that make up this richly 
+  illustrated resource are provided by Royal Botanic Gardens Victoria 
+  free-of-charge for the use of land managers, scientists, students and anyone 
+  else with an interest in the Victorian flora. The platform currently provides 
+  resources for vascular plants (including seed plants and ferns) and mosses.
+cards:
+  - title: Vascular plants
+    image: https://images.rbg.vic.gov.au/cip/preview/image/public/144248?maxsize=1024
+    links: 
+      - to: flora/search?q=%2a&fq=phylum%3ATracheophyta
+        text: Search
+      - to: flora/classification/6abc498a-70de-11e6-a989-005056b0018f
+        text: Browse classification
+      - to: flora/key/1903
+        text: Keys
+  - title: Mosses
+    image: https://data.rbg.vic.gov.au/cip/preview/image/public/144250?maxsize=1024
+    links: 
+      - to: flora/search?q=%2a&fq=phylum%3ABryophyta
+        text: Search
+      - to: flora/classification/74092d37-57d4-4d07-b47a-bec48a5942ca
+        text: Browse classification
 slides:
   - index: 0
     imgSource: https://data.rbg.vic.gov.au/cip/preview/image/public/4?maxsize=600
