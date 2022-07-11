@@ -1,9 +1,4 @@
 ---
 title: Checklists
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis 
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore 
-eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, 
-sunt in culpa qui officia deserunt mollit anim id est laborum.
+VicFlora allows you to generate your own species checklists for Victorian _Parks and Reserves_, _Bioregions_ and _Local Government Areas_. To do this, simply select one of the three options to update the map with the correct layer. Next, simply click on the map in the area you are trying to generate a checklist for. The results will then be displayed automatically below the map. You can then either filter the results further, or download the list in .CSV format by clicking the Download button.
