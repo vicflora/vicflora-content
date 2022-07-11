@@ -1,10 +1,11 @@
 ---
 title: VicFlora software upgrade
 created: 2022-07-14
+categories: [News]
 thumbnail: https://images.rbg.vic.gov.au/cip/preview/thumbnail/public/32388?size=192
 ---
 
-VicFlora has been re-launched today, featuring a new open-source core that has allowed us to add new usability and accessibility features<!--more--> that will improve the user experience for both casual users and experienced botanists alike, and allow us to make further improvements more easily. Features at the time of re-launch include: 
+VicFlora has been re-launched today, featuring a new open-source core that has allowed us to add new usability and accessibility features that will improve the user experience for both casual users and experienced botanists alike, and allow us to make further improvements more easily. Features at the time of re-launch include<!--more-->: 
 
 -	An updated distribution map platform based on an open-source, mobile-friendly interface. The new map includes display of AVH (Australian Virtual Herbarium) record data for map points, as well as layer functionality that allows users to overlay Bioregions, Local Government Areas, and Parks and Reserves
 -	Improved checklist functionality, allowing the creation of species checklists for Bioregions, Local Government Areas, and Parks and Reserves
