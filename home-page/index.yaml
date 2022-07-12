@@ -8,7 +8,7 @@ intro: >
   resources for vascular plants (including seed plants and ferns) and mosses.
 cards:
   - title: Vascular plants
-    image: https://images.rbg.vic.gov.au/cip/preview/image/public/144248?maxsize=1024
+    image: https://vicflora-cdn.rbg.vic.gov.au/assets/homepage/card-image-tracheophyta.jpg
     links: 
       - to: flora/search?q=%2a&fq=phylum%3ATracheophyta
         text: Search
@@ -17,7 +17,7 @@ cards:
       - to: flora/key/1903
         text: Keys
   - title: Mosses
-    image: https://data.rbg.vic.gov.au/cip/preview/image/public/144250?maxsize=1024
+    image: https://vicflora-cdn.rbg.vic.gov.au/assets/homepage/card-image-bryophyta.jpg
     links: 
       - to: flora/search?q=%2a&fq=phylum%3ABryophyta
         text: Search
@@ -25,34 +25,34 @@ cards:
         text: Browse classification
 slides:
   - index: 0
-    imgSource: https://data.rbg.vic.gov.au/cip/preview/image/public/144252?maxsize=600
+    imgSource: https://vicflora-cdn.rbg.vic.gov.au/assets/homepage/carousel-slide-0.jpg
     caption: >
       Illustration: Barley, Anita. ©2021 Royal Botanic Gardens Victoria. CC BY-NC-SA 4.0.
   - index: 1
-    imgSource: https://data.rbg.vic.gov.au/cip/preview/image/public/144254?maxsize=600
+    imgSource: https://vicflora-cdn.rbg.vic.gov.au/assets/homepage/carousel-slide-1.jpg
     caption: >
-      Illustration: Barley, Anita. ©2021 Royal Botanic Gardens Victoria. CC BY-NC-SA 4.0.
+      Illustration: Anita Barley, Royal Botanic Gardens Victoria. CC BY-NC-SA 4.0.
   - index: 2
-    imgSource: https://data.rbg.vic.gov.au/cip/preview/image/public/144256?maxsize=600
+    imgSource: https://vicflora-cdn.rbg.vic.gov.au/assets/homepage/carousel-slide-2.jpg
     caption: >
-      Illustration: Barley, Anita. ©2021 Royal Botanic Gardens Victoria. CC BY-NC-SA 4.0.
+      Illustration: Anita Barley, Royal Botanic Gardens Victoria. CC BY-NC-SA 4.0.
   - index: 3
-    imgSource: https://data.rbg.vic.gov.au/cip/preview/image/public/144258?maxsize=600
+    imgSource: https://vicflora-cdn.rbg.vic.gov.au/assets/homepage/carousel-slide-3.jpg
     caption: >
-      Illustration: Barley, Anita. ©2021 Royal Botanic Gardens Victoria. CC BY-NC-SA 4.0.
+      Illustration: Anita Barley, Royal Botanic Gardens Victoria. CC BY-NC-SA 4.0.
   - index: 4
-    imgSource: https://data.rbg.vic.gov.au/cip/preview/image/public/144260?maxsize=600
+    imgSource: https://vicflora-cdn.rbg.vic.gov.au/assets/homepage/carousel-slide-4.jpg
     caption: >
-      Illustration: Barley, Anita. ©2021 Royal Botanic Gardens Victoria. CC BY-NC-SA 4.0.
+      Illustration: Anita Barley, Royal Botanic Gardens Victoria. CC BY-NC-SA 4.0.
   - index: 5
-    imgSource: https://data.rbg.vic.gov.au/cip/preview/image/public/144262?maxsize=600
+    imgSource: https://vicflora-cdn.rbg.vic.gov.au/assets/homepage/carousel-slide-5.jpg
     caption: >
-      Illustration: Barley, Anita. ©2021 Royal Botanic Gardens Victoria. CC BY-NC-SA 4.0.
+      Illustration: Anita Barley, Royal Botanic Gardens Victoria. CC BY-NC-SA 4.0.
   - index: 6
-    imgSource: https://data.rbg.vic.gov.au/cip/preview/image/public/144264?maxsize=600
+    imgSource: https://vicflora-cdn.rbg.vic.gov.au/assets/homepage/carousel-slide-5.jpg
     caption: >
-      Illustration: Barley, Anita. ©2021 Royal Botanic Gardens Victoria. CC BY-NC-SA 4.0.
+      Illustration: Anita Barley, Royal Botanic Gardens Victoria. CC BY-NC-SA 4.0.
   - index: 7
-    imgSource: https://data.rbg.vic.gov.au/cip/preview/image/public/144266?maxsize=600
+    imgSource: https://vicflora-cdn.rbg.vic.gov.au/assets/homepage/carousel-slide-6.jpg
     caption: >
-      Illustration: Barley, Anita. ©2021 Royal Botanic Gardens Victoria. CC BY-NC-SA 4.0.
+      Illustration: Anita Barley, Royal Botanic Gardens Victoria. CC BY-NC-SA 4.0.

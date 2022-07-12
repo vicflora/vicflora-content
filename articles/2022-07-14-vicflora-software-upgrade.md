@@ -2,7 +2,7 @@
 title: VicFlora software upgrade
 created: 2022-07-14
 categories: [News]
-thumbnail: https://images.rbg.vic.gov.au/cip/preview/thumbnail/public/32388?size=192
+thumbnail: https://vicflora-cdn.rbg.vic.gov.au/assets/articles/2022-07-14-vicflora-software-upgrade/thumbnail.jpg
 ---
 
 VicFlora has been re-launched today, featuring a new open-source core that has allowed us to add new usability and accessibility features that will improve the user experience for both casual users and experienced botanists alike, and allow us to make further improvements more easily. Features at the time of re-launch include<!--more-->: 
