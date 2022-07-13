@@ -1,28 +1,83 @@
 ---
-title: VicFlora software upgrade
+title: The day the flora turned pink
 created: 2022-07-14
 categories: [News]
 thumbnail: https://vicflora-cdn.rbg.vic.gov.au/assets/articles/2022-07-14-vicflora-software-upgrade/thumbnail.jpg
 ---
 
-VicFlora has been re-launched today, featuring a new open-source core that has allowed us to add new usability and accessibility features that will improve the user experience for both casual users and experienced botanists alike, and allow us to make further improvements more easily. Features at the time of re-launch include<!--more-->: 
+Today we are releasing a major upgrade of VicFlora, with completely new 
+underlying infrastructure and a fresh new look that aligns with the Royal 
+Botanic Gardens Victoria (RBGV) visuals.<!--more-->
 
--	An updated distribution map platform based on an open-source, mobile-friendly interface. The new map includes display of AVH (Australian Virtual Herbarium) record data for map points, as well as layer functionality that allows users to overlay Bioregions, Local Government Areas, and Parks and Reserves
--	Improved checklist functionality, allowing the creation of species checklists for Bioregions, Local Government Areas, and Parks and Reserves
--	Taxon profiles with enhanced links to APNI (Australian Plant Names Index) and links to species profiles in sister floras in Australia and New Zealand
--	Definitions of the ‘status fields’ in taxon profiles are now provided in pop-up boxes simply accessed by hovering over the text in question
--	A glossary of botanical terminology that is accessible from all individual species entries, highlighting technical terms with definitions provided on hover. Definitions are also now accessible from directly within our keys to the main groups of vascular plants in Victoria
--	An updated ‘threat status’ field to include IUCN, FFG, EPBC status
--	Establishment means and degree of establishment values have been mapped to the new Darwin Core vocabularies to standardise the vocabulary used for communicating information about biodiversity
--	Multi-access (Matrix) keys are available for Victorian Acacia, Asteraceae, Cyperaceae, Eucalypts, Fabaceae, Juncaceae and Flowering Plant Families
--	Updated APIs (Application Programming Interface), allowing other systems and apps to make use of our data more easily
+While this upgrade is about the infrastructure behind VicFlora, a number of new 
+features and improvements that we hope will enhance the experience of VicFlora 
+users already ship with this release.
 
-Exciting new features not ready at the time of re-launch are also in development. These will further improve access to valuable data and offer users an even more useful set of tools.
+- Acting on feedback from users we have made the distribution maps interactive, 
+    so users can now zoom in and out on the maps, interrogate points and link to 
+    the underlying occurrence records in the Atlas of Living Australia (ALA), 
+    and add overlays with Victorian Bioregions, Local Government Areas (LGAs) 
+    or Parks and Conservation Reserves and get information about the occurrence 
+    status, origin and degree of establishment of a species or infraspecific 
+    taxon in those areas. We have also replaced the static state distribution 
+    maps with interactive map with distribution data from the Australasian 
+    Virtual Herbarium (AVH).
 
-First launched in September 2016, VicFlora provides identification tools and information on all known native and naturalised Victorian plants, totalling over 4,400 different plant entries. Today, VicFlora contains over 33,000 images that document 80 % of Victoria's plants, a figure which increases each season. It is the organisation's most used scientific resource, with 189,000 users and over 2.1M pages of data delivered per year, and 1,600 users per day during the peak flowering season (2022 data).
+    Due to performance enhancements in our data processing, we are now also able 
+    to get updated occurrence data from ALA every week.
 
-As such, VicFlora is one of the most visited sites in Australia for native plant identification. Significant milestones were attained in 2020 and 2021 when Eucalyptus and Acacia ‘exemplars’ were respectively added to the flora. Exemplars are very high-resolution images of perfect reference specimens, in this case covering Victoria’s many Eucalyptus and Acacia species, including close-ups of key diagnostic characters.  
+- Checklist functionality has improved. One can now make checklists for areas in 
+    all the same spatial layers that can be overlayed on the maps (see above). 
+    These areas are indexed against the taxa in VicFlora, so the checklist 
+    appears almost instantly when an area is selected. As checklists are now 
+    essentially search results, the can be filtered on the same facets and have 
+    the same download options as search results.
 
-Through our continual development of VicFlora, we will ensure that the platform remains the primary port of call for all those seeking to identify the plants of Victoria, as well as the authoritative reference for natural resource managers and secondary and tertiary students in the natural sciences.
+- We now have links from the taxon pages to treatments of the taxon in the Flora 
+    of Australia, all state and territory floras and the Flora of New Zealand, 
+    in so far as those are available online. There is also processing in place 
+    to update these links periodically, so they remain up-to-date with changes 
+    in those other floras.
+
+- We are working on increased collaboration and interlinking between VicFlora 
+    and the Victorian Biodiversity Atlas (VBA). Currently this is expressed by 
+    the threat status values according to the Flora and Fauna Guarantee Act 1988 
+    (FFG; Victoria) and the Environment Protection and Biodiversity Conservation 
+    Act 1999 (EPBC; Australia) in VicFlora coming from the VBA. The FFG values 
+    are reasonably new and were obtained by assessment of taxa that occur in 
+    Victoria against International Union for Conservation of Nature (IUCN) 
+    criteria, a process in which VicFlora editors were heavily involved. 
+    For taxa that have not been assessed yet, we still provide the old Victorian 
+    Advisory List values.
+
+- We have mapped our establishment means values against the new Darwin Core 
+    vocabularies for Establishment Means and Degree of Establishment. The big 
+    advantage of using these standard terms is that they mean the same 
+    everywhere, making data from different resources more readily comparable 
+    and thus more vocabulary, and making the terms more easily understood by 
+    overseas users who might not be familiar with the Victorian or Australian 
+    context. As the terms we use now might not be familiar to VicFlora users, 
+    we provide their definitions in popovers, which can be made visible by 
+    hovering over the text. We have extended this functionality to the other 
+    "status" terms as well.
+
+- It is now possible to have technical terms used in the descriptions looked up 
+    in the glossary by simply clicking a button. Terms that can be found in the 
+    glossary will show up as links in the description and their definition is 
+    shown in a popover when one hovers the mouse over a link. The same 
+    functionality is available for the leads in the (pathway) identification 
+    keys.
+
+- Last but not least, as this is actually infrastructure, VicFlora is now 
+    entirely service-based and all data in VicFlora is available through an 
+    Application Programmer Interface (API), which means that developers can use 
+    data from VicFlora in their own applications. VicFlora itself uses this API, 
+    so other applications can access the same up-to-date data VicFlora is 
+    showing.
+
+Through our continual development of VicFlora, we will ensure that the platform 
+remains the primary port of call for all those seeking to identify the plants of 
+Victoria, as well as the authoritative reference for natural resource managers 
+and secondary and tertiary students in the natural sciences.
 
 
