@@ -30,7 +30,7 @@ users already ship with this release.
     all the same spatial layers that can be overlayed on the maps (see above). 
     These areas are indexed against the taxa in VicFlora, so the checklist 
     appears almost instantly when an area is selected. As checklists are now 
-    essentially search results, the can be filtered on the same facets and have 
+    essentially search results, they can be filtered on the same facets and have 
     the same download options as search results.
 
 - We now have links from the taxon pages to treatments of the taxon in the Flora 
