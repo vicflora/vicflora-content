@@ -20,7 +20,7 @@ users already ship with this release.
     or Parks and Conservation Reserves and get information about the occurrence 
     status, origin and degree of establishment of a species or infraspecific 
     taxon in those areas. We have also replaced the static state distribution 
-    maps with interactive map with distribution data from the Australasian 
+    maps with an interactive map with distribution data from the Australasian 
     Virtual Herbarium (AVH).
 
     Due to performance enhancements in our data processing, we are now also able 
@@ -54,7 +54,7 @@ users already ship with this release.
     vocabularies for Establishment Means and Degree of Establishment. The big 
     advantage of using these standard terms is that they mean the same 
     everywhere, making data from different resources more readily comparable 
-    and thus more vocabulary, and making the terms more easily understood by 
+    and thus more valuable, and making the terms more easily understood by 
     overseas users who might not be familiar with the Victorian or Australian 
     context. As the terms we use now might not be familiar to VicFlora users, 
     we provide their definitions in popovers, which can be made visible by 
