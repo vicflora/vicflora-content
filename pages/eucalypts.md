@@ -7,6 +7,7 @@ taxonomicScope:
   - Eucalyptus
   - Corymbia
   - Angophora
+image: https://vicflora-cdn.rbg.vic.gov.au/assets/matrix-keys/card-image-eucalyptus.jpg
 ---
 
 ## Introduction

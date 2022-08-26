@@ -4,6 +4,7 @@ title: Multi-access key to the Acacia of Victoria
 permalink: /pages/acacia
 taxonomicScope: 
   - Acacia
+image: https://vicflora-cdn.rbg.vic.gov.au/assets/matrix-keys/card-image-acacia.jpg
 ---
 
 ## Introduction

@@ -5,6 +5,7 @@ title: Multi-access key to the Fabaceae of Victoria (excluding Acacia)
 permalink: /pages/fabaceae
 taxonomicScope: 
   - Fabaceae
+image: https://vicflora-cdn.rbg.vic.gov.au/assets/matrix-keys/card-image-fabaceae.jpg
 ---
 
 ## Introduction

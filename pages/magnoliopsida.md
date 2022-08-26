@@ -4,6 +4,7 @@ title: Multi-access key to the Flowering Plant Families of Victoria
 permalink: /pages/magnoliopsida
 taxonomicScope: 
   - Magnoliopsida
+image: https://vicflora-cdn.rbg.vic.gov.au/assets/matrix-keys/card-image-magnoliopsida.jpg
 ---
 
 ## Introduction

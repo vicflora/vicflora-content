@@ -5,6 +5,7 @@ title: Multi-access key to the Juncaceae of Victoria
 permalink: /pages/juncaceae
 taxonomicScope: 
   - Juncaceae
+image: https://vicflora-cdn.rbg.vic.gov.au/assets/matrix-keys/card-image-juncaceae.jpg
 ---
 
 ## Introduction
