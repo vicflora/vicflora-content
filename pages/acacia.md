@@ -20,7 +20,7 @@ The multi-access key to the _Acacia_ of Victoria is a key to all 146 taxa that a
 To use the key the user selects a feature from the features in the top left Features Available panel and clicks on the state present in their specimen to be identified. Once selected this feature and state will show as being selected in the Features Chosen panel directly below the Features Available panel. To undo a selection, click on the box next to the state chosen in the Features Chosen panel to erase the tick in the box. Once a feature state is chosen all the taxa that do not possess the chosen feature state are discarded in the bottom right Entities Discarded panel and those that do possess the chosen feature state are retained in the top right Entities Remaining panel. The user continues to choose further character states present in their specimen until identification is achieved. To restart the key when finished select the restart key icon represented by the two green arrows in the top left corner of the screen.
 
 <markdown-button-link-component 
-  :href="'/matrix-keys/acacia'" 
+  :href="'/flora/matrix-keys/acacia'" 
   :button_text="'Go to Key Player'" 
   :size="'lg'" :target="'\_blank'">
 </markdown-button-link-component>
