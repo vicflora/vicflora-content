@@ -35,7 +35,7 @@ To help identify the specimen to be identified as quickly as possible the best o
 
 One character that refers to where a plant can be found.
 
-## # Natural Region
+### Natural Region
 
 Victoria has been divided into 16 natural regions. For this character the user determines which natural region the plant that is to be identified was found in to enter for this character. Whether a taxon is regarded as occurring in a particular natural region or not is dependent on whether the taxon has been previously documented as occurring in that natural region or not. There is a remote possible that a taxon occurs in a natural region but has not yet been documented in that natural region. In such a case the key will not recognise that taxon as occurring in that natural region which will result in a misidentification for the user. This issue may be particularly relevant to newly introduced species which may be still expanding their range through Victoria or for taxa that are not collected often. Due to these issues we suggest that this character be one of the first characters investigated as a potential reason for misidentification.
 
@@ -43,37 +43,37 @@ Victoria has been divided into 16 natural regions. For this character the user d
 
 These two characters refer to the plant in its entirety.
 
-## # Habit
+### Habit
 
 The general growth form and duration of the plant, this character consists of three states.
 
-## # # Annual
+#### Annual
 
 Plants that live for only one year and then die.
 
-## # # Herbaceous perennial
+#### Herbaceous perennial
 
 Plants that live for more than one year and lack woody stems. Plants that are small in stature when reproductive generally fall into this category, however, some herbs can become large but still do not produce woody stems and branches.
 
-## # # Woody perennial
+#### Woody perennial
 
 Plants that live for more than one year and have woody stems and branches. Small shrubs often referred to as subshrubs are included in this state.
 
-## # Maximum Height
+### Maximum Height
 
 This is a measurement in centimetres (cm) from the base of the plant at ground level to the highest point on the plant. If the plant is a herb with most of its height contributed by the reproductive parts (inflorescence and infructescence) then the measurement includes these reproductive parts
 
 ##  Root
 
-## # Root type
+### Root type
 
 The main root structures formed. This character has two states. 
 
-## # # Stolon/rhizome
+#### Stolon/rhizome
 
 Plants with often long, usually lateral main roots from which new shoots emerge. These long stem-like roots may either be below ground (rhizomes) or run along the surface where they are often sheltered by surrounding vegetation or litter (stolons).
 
-## # # Taproot/network
+#### Taproot/network
 
 The most common root structure of most plants. These lack any specialised underground structures, other than the typical root network (ie. a main root (or few roots) from which smaller roots may then branch off from. 
 
@@ -81,31 +81,31 @@ The most common root structure of most plants. These lack any specialised underg
 
 This character refers to the main axis (stem) of the plant.
 
-## # Stem indumentum
+### Stem indumentum
 
 Covering(s) present on the on the stem (typically hairs). Ideally young stems should be inspected as stems may lose hairs with age. This character has six states.
 
-## # # Stems glabrous 
+#### Stems glabrous 
 
 Stems completely devoid of any type of hairs (glabrous). Stems may have a waxy glaucous covering.
 
-## # # Stems with simple hairs
+#### Stems with simple hairs
 
 Stems with hairs that are unbranched and lack glands or any other feature. These may be unicellular or multicellular, straight or curved, held erect or against the surface.
 
-## # # Stems papillate/glandular
+#### Stems papillate/glandular
 
 Stems with a covering of small elongated protuberances (papilla) or glands. Glands usually appear as a spherical structure on the surface of the stem or the tip of a hair. 
 
-## # # Stems tuberculate/scabrid
+#### Stems tuberculate/scabrid
 
 Stems with a covering of warty outgrowths. These are often hardened and may be quite sharp or rough to touch.
 
-## # # Stems with bristles
+#### Stems with bristles
 
 Stems with hairs that stiff, ridged, hard or flexible, sometimes with a sharp point. These are often straight, but can be curved or have a bend.
 
-## # # Stems with branching/medifixed/stellate hairs
+#### Stems with branching/medifixed/stellate hairs
 
 Stems with hairs that have two or more branches or arms. These may consist of a central stalk (sometimes this is very short) which is then branched into two (medifixed) or more arms, or 2-several arms arising from a central point on the stem surface.
 
@@ -113,75 +113,75 @@ Stems with hairs that have two or more branches or arms. These may consist of a 
 
 This group of nine characters refers to the main photosynthetic and green organ (leaf) of the plant. Avoid selecting leaves close to inflorescences and flowers or smaller leaves sprouting from the junction (axil) of larger leaves and the stem as these leaves are often not a good representative of the typical size and shape of the leaves of the plant.
 
-## # Leaf length
+### Leaf length
 
 This character requires the user to measure and enter the distance in centimetres (cm) from the point of attachment to a stem to the apex or end of the leaf. For taxa that have a distinct leaf stalk or petiole this measurement includes the petiole as well as the expanded blade or lamina section. 
 
-## # Leaf dissection
+### Leaf dissection
 
 The degree of dissection (e.g. lobes/teeth etc.) along the leaf margin. This character has four states.
 
-## # # Entire
+#### Entire
 
 Leaves that are completely intact along the edge without any incisions or teeth. Margins may be somewhat wavy or undulating.
 
-## # # Small teeth/lobes
+#### Small teeth/lobes
 
 Leaves largely entire except for few-many small teeth or lobes along the margin.
 
-## # # Lobed/toothed
+#### Lobed/toothed
 
 Leaves with sharp or rounded teeth or lobes along the margins that are incised up to about half of the way to the mid-vein.
 
-## # # Pinnately-lobed/pinnate 
+#### Pinnately-lobed/pinnate 
 
 Leaves that have segments that are formed by an incision of at least half of the way to the mid-vein.
 
-## # # 2- or more times divided
+#### 2- or more times divided
 
 Leaves that are divided into segments (pinnae) that are then further incised into lobes or pinnae (bi- or tri-pinnate). 
 
-## # Leaf attachment
+### Leaf attachment
 
 The manner in which the leaf is attached to the stem. This character has three states.
 
-## # # Sessile and stem-clasping
+#### Sessile and stem-clasping
 
 Leaves attached directly to the stem without any connecting stalk (petiole), or with a minute stalk (c. <0.5 mm long), with the leaf blade or lobes of the blade of a pinnatisect leaf clasping or wrapping around the stem. 
 
-## # # Sessile/subsessile, not stem-clasping
+#### Sessile/subsessile, not stem-clasping
 
 Leaves attached directly to the stem without any connecting stalk (petiole), or with a minute stalk (c. <0.5 mm long), but the leaf blade (including any lobes) does not wrap around the stem.
 
-## # # Petiolate
+#### Petiolate
 
 Leaves attached to the stem by a stalk (petiole) at the base of the leaf. In some cases the petiole may only be a few millimeters long.
 
-## # Leaf indumentum
+### Leaf indumentum
 
 Covering(s) present on the on the leaves (typically hairs). Ideally young leaves should be inspected as leaves may lose hairs with age. This character has six states.
 
-## # # Leaves glabrous
+#### Leaves glabrous
 
 Leaves that are completely devoid of any type of hairs (glabrous).
 
-## # # Leaves with simple hairs
+#### Leaves with simple hairs
 
 leaves with hairs that are unbranched and lack glands or any other feature. These may be unicellular or multicellular, straight or curved, held erect or against the surface.
 
-## # # Leaves papillate
+#### Leaves papillate
 
 Leaves with a covering of small, elongated protuberances (papilla).
 
-## # # Leaves tuberculate/scabrid
+#### Leaves tuberculate/scabrid
 
 Leaves with a covering of warty outgrowths. These are often hardened and may be quite sharp or rough to touch.
 
-## # # Leaves with bristles
+#### Leaves with bristles
 
 Leaves with hairs that stiff, ridged, hard or flexible, sometimes with a sharp point. These are often straight, but can be curved or have a bend.
 
-## # # Leaves with branching/medifixed/stellate hairs
+#### Leaves with branching/medifixed/stellate hairs
 
 Leaves with hairs that have two or more branches or arms. These may consist of a central stalk (sometimes this is very short) which is then branched into two (medifixed) or more arms, or 2-several arms arising from a central point on the stem surface.
 
@@ -189,57 +189,57 @@ Leaves with hairs that have two or more branches or arms. These may consist of a
 
 These characters refer to the structure housing the reproductive organs of the plant along with the petals and sepals.
 
-## # Sepal
+### Sepal
 
 The outer whorl of non-fertile floral parts, these consist of 4, usually green and herbaceous appendages.
 
-## # Sepal length 
+### Sepal length 
 
 This character requires the user to measure and enter the distance in millimetres (mm) from the base to the apex or end of the sepal. 
 
 ## Petal 
 
-## # Petal length
+### Petal length
 
 This character requires the user to measure and enter the distance in millimetres (mm) from the base to the apex of the petal. Petals often consist of a narrow basal section (claw) and expanded upper section (limb). Users need to measure both limb and claw of a petal. 
 
-## # Petal colour
+### Petal colour
 
 The predominant colour of the petals. This character has four states.
 
-## # Petal venation
+### Petal venation
 
 The colour of the veins on the inner surface of the petal. This character has two states.
 
-## # # Venation dark or contrastingly coloured
+#### Venation dark or contrastingly coloured
 
 Petals with veins that are darker or contrastingly coloured to the petal lamina (e.g. yellow petals with dark brown veins, or white petals with purple veins). 
 
-## # # Venation not in contrast to colour of petal lamina
+#### Venation not in contrast to colour of petal lamina
 
 Veins that are not a different colour to the petal lamina. In many cases veins might not be apparent. Veins that are distinct but not in stark contrast (e.g. yellow petals with slightly darker yellow veins) are also included in this state. 
 
-## # Petal apex
+### Petal apex
 
 The shape of the tip of the petals. This character has three states.
 
-## # # Petals rounded/notched
+#### Petals rounded/notched
 
 Tips of petals are curved, rounded, flattened (truncate) or with a slight notch.
 
-## # # Petals bifid
+#### Petals bifid
 
 Tips of petals are deeply divided into 2 or more lobes.
 
-## # # Petals tapered to a point
+#### Petals tapered to a point
 
 Tips of petals gradually taper to a point, which may ultimately be obtuse or acute.
 
-## # Stamens 
+### Stamens 
 
 The male reproductive organs of a flower i.e. stamens (androecium).
 
-## # Stamen number
+### Stamen number
 
 The number of fertile stamens present on a flower. Only stamens that are fertile (i.e. have an anther that produces pollen) should be included. This character has three states.
 
@@ -247,191 +247,191 @@ The number of fertile stamens present on a flower. Only stamens that are fertile
 
 These characters refer to the structure that bears the seed(s), usually a siliqua or silicula (depending on the length). 
 
-## # Fruit length 
+### Fruit length 
 
 The length of the fruit in millimetres (mm) from the point of attachment to the pedicel to the tip (including the persistent style, sterile beak, or distinct segments). 
 
-## # Fruit width (mm)
+### Fruit width (mm)
 
 The distance in millimetres (mm) across the widest part of the fruit.
 
-## # Fruit shape
+### Fruit shape
 
 The overall shape of the fruit. This character has four states.
 
-## # # Fruit linear
+#### Fruit linear
 
 Fruits that are narrow and relatively consistent in width from base to tip. These are typically more than 3 times as long as wide (siliqua).
 
-## # # Fruit narrow elliptic to spherical
+#### Fruit narrow elliptic to spherical
 
 Fruits that are typically widest about the middle and taper towards the apex and base. These are often less than three times as long as wide.
 
-## # # Fruit reniform/cordate
+#### Fruit reniform/cordate
 
 Fruit roughly as wide as long or longer than wide and notched at the base e.g. kidney-shaped (reniform) or heart-shaped (cordate).
 
-## # # Fruit obovoid/obtriangular
+#### Fruit obovoid/obtriangular
 
 Fruits that are clearly wider towards the apex.
 
-## # Fruit architecture
+### Fruit architecture
 
 The three-dimensional shape of the fruit. This character has two states.
 
-## # # Compressed or flattened
+#### Compressed or flattened
 
 Fruits that are flattened, compressed or lenticular in cross section. This typically relates to the valves being flattened or very strongly keeled. 
 
-## # # Terete or quadrangular
+#### Terete or quadrangular
 
 Fruits that are more or less circular (terete) or quadrangular in cross section (i.e.. roughly as wide as long in section). This typically relates to the valves being curved or keeled. 
 
-## # Fruit orientation
+### Fruit orientation
 
 The direction in which the fruit is orientated. This is generally governed by the petiole. This character has three states. 
 
-## # # Spreading or ascending
+#### Spreading or ascending
 
 Fruits that are erect or spreading outwards from the stem (pointing upwards or sideways).
 
-## # # Appressed to stem
+#### Appressed to stem
 
 Fruits that are held erect against the stem.
 
-## # # Pendent
+#### Pendent
 
 Fruits that are drooping or pointing downwards. 
 
-## # Fruit indumentum
+### Fruit indumentum
 
 Covering(s) present on the on the fruits (typically hairs), these are usually on the valves. This character has two states.
 
-## # # Fruits glabrous
+#### Fruits glabrous
 
 Fruits that lack hair (glabrous).
 
-## # # Fruits hairy
+#### Fruits hairy
 
 Fruits (principally the valves) with hairs or bristles.
 
-## # Fruit margins
+### Fruit margins
 
 Ornamentation along the margin or edges of fruit. This character has two states.
 
-## # # Fruits winged
+#### Fruits winged
 
 Fruits that have a thin flange, membranous expansion extending beyond the normal outline of the fruit.
 
-## # # Fruits not winged
+#### Fruits not winged
 
 Fruits lacking an extension beyond the normal outline of the fruit, but may have minor ridges associated septum, or the venation or keel on the valve. 
 
-## # Fruit apex
+### Fruit apex
 
 The shape of the tip (apex) of the fruit. This character has four states.
 
-## # # Fruit notched
+#### Fruit notched
 
 Tips of fruits have a shallow notch in the middle, often due to the two valves slightly exceeding the septum. Fruits with a persistent style sitting in this notch should also be included in this state.
 
-## # # Fruit deeply bifid
+#### Fruit deeply bifid
 
 Tips of fruits with a deep cleft in the middle, appearing 2-lobed at the apex. The persistent style may also be present, making the fruit appear somewhat 3-lobed.
 
-## # # Fruit rounded/pointed 
+#### Fruit rounded/pointed 
 
 Tips of fruits rounded, curved or flattened, or come to a fine point, often due to the presence of the persistent style. 
 
-## # # Fruit beaked 
+#### Fruit beaked 
 
 Tips of fruit with a large, usually sterile appendage (>2.5 mm long). This is often thinner or appearing as a separate segment. 
 
-## # Fruit dehiscence 
+### Fruit dehiscence 
 
 The method in which fruits open to release seed (or the lack of any such opening). This character has three states. 
 
-## # # Dehiscent by valves
+#### Dehiscent by valves
 
 Fruits that split open to release seeds by the detachment of the valves from the central septum.
 
-## # # Breaking into segments
+#### Breaking into segments
 
 Fruits that articulate between the seeds, breaking into short segments. 
 
-## # # Indehiscent
+#### Indehiscent
 
 Fruits that do not open to release seed.
 
-## # Septum position 
+### Septum position 
 
 The position of the septum (typically a narrow rim to which the valves attach) in relation to the width of the fruit. This character has two states.
 
-## # # Broadest part of fruit or fruit terete 
+#### Broadest part of fruit or fruit terete 
 
 Fruits with the septum is on the broadest part of the fruit, with valves are flattened or curved with a depth that does not exceed the width.
 
-## # # Narrowest part of fruit
+#### Narrowest part of fruit
 
 Fruits with the septum on the narrowest part of the fruit, typically with the valves very strongly keeled, with the depth (the length from the tip of the keel to septum) exceeding the width (the distance between the two ends of the valve that are attached to the septum).
 
-## # Fruit venation
+### Fruit venation
 
 The number of lines (nerves or veins) that run lengthwise along the surface of the fruit valve.
 
-## # # Veins inconspicuous
+#### Veins inconspicuous
 
 Fruits with no prominent vein(s) that span the length of the valve. Fruits may have a prominent septum visible on either side of the valves. Fruits with reticulate venation that lacks a prominent central vein(s)] should be included in this state.
 
-## # # 1 prominent vein
+#### 1 prominent vein
 
 Fruits with one prominent vein running along the surface of the fruit valve (this is typically in the middle of the valve)
 
-## # # > 1 prominent vein
+#### > 1 prominent vein
 
 Fruits with more than one prominent vein running along the surface of the fruit valve. This often consists of one prominent central vein with 1-several slightly fainter veins on either side.
 
-## # Fruit constriction
+### Fruit constriction
 
 The degree to which the fruit valves sit against (and constrict around) the seeds
 
-## # # Not constricted between seeds
+#### Not constricted between seeds
 
 Fruits that are not constricted between seeds, with the valves appearing flat or slightly wavy along the length of the valve.
 
-## # # Strongly constricted between seeds
+#### Strongly constricted between seeds
 
 Fruits that are strongly constricted between the seeds, with the valves appearing to bulge out and then tightly taper between seeds. 
 
-## # Pedicel
+### Pedicel
 
 These two characters relate to the stalk (pedicel) attaching the fruit to the stem. 
 
-## # Pedicel length
+### Pedicel length
 
 The length of the stalk (pedicel). Ideally mature fruits should be examined for this character. This character has three states.
 
-## # # Shorter than fruit
+#### Shorter than fruit
 
 The stalk is shorter than the length of the fruit.
 
-## # # Equal length to fruit
+#### Equal length to fruit
 
 The stalk is more or less equal in length to the fruit
 
-## # # Longer than fruit
+#### Longer than fruit
 
 The stalk is longer than the length of the fruit.
 
-## # Pedicel indumentum 
+### Pedicel indumentum 
 
 Covering(s) present on the on the pedicel (typically hairs). This character has two states
 
-## # # PedicelGlabrous
+#### PedicelGlabrous
 
 Fruits that lack hair (glabrous).
 
-## # # Pedicel hairy
+#### Pedicel hairy
 
 Pedicels with at least some hairs (usually simple hairs of papillae). 
 
@@ -439,10 +439,10 @@ Pedicels with at least some hairs (usually simple hairs of papillae).
 
 These two characters relate to the number and arrangement of seeds within a fruit.
 
-## # Number of seeds per fruit
+### Number of seeds per fruit
 
 The total number of seeds within a single fruit. Ideally fully-formed fruits should be examined for this character.
 
-## # Seed position
+### Seed position
 
 The arrangement of seeds within a chamber (locule) of the fruit. Users need to establish if seeds sit in a single row or two rows per locule.
