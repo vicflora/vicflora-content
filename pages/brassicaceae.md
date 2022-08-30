@@ -31,7 +31,7 @@ For the most effective use of this key the user is encouraged to read the help g
 
 To help identify the specimen to be identified as quickly as possible the best option can be used. This option highlights which characters should be used first to discard the maximum number of taxa among the remaining taxa. To use the best option select the best icon given as a blue wand at the top of the screen. For some similar taxa such as closely related species or subspecies within a species it may become time consuming to keep using the key until one taxon remains. In such instances the user can use the dichotomous key and profiles to help distinguish between the remaining similar species.
 
-## Occurrence
+##  Occurrence
 
 One character that refers to where a plant can be found.
 
@@ -39,7 +39,7 @@ One character that refers to where a plant can be found.
 
 Victoria has been divided into 16 natural regions. For this character the user determines which natural region the plant that is to be identified was found in to enter for this character. Whether a taxon is regarded as occurring in a particular natural region or not is dependent on whether the taxon has been previously documented as occurring in that natural region or not. There is a remote possible that a taxon occurs in a natural region but has not yet been documented in that natural region. In such a case the key will not recognise that taxon as occurring in that natural region which will result in a misidentification for the user. This issue may be particularly relevant to newly introduced species which may be still expanding their range through Victoria or for taxa that are not collected often. Due to these issues we suggest that this character be one of the first characters investigated as a potential reason for misidentification.
 
-## Plant
+##  Plant
 
 These two characters refer to the plant in its entirety.
 
@@ -63,7 +63,7 @@ Plants that live for more than one year and have woody stems and branches. Small
 
 This is a measurement in centimetres (cm) from the base of the plant at ground level to the highest point on the plant. If the plant is a herb with most of its height contributed by the reproductive parts (inflorescence and infructescence) then the measurement includes these reproductive parts
 
-## Root
+##  Root
 
 ## # Root type
 
@@ -77,7 +77,7 @@ Plants with often long, usually lateral main roots from which new shoots emerge.
 
 The most common root structure of most plants. These lack any specialised underground structures, other than the typical root network (ie. a main root (or few roots) from which smaller roots may then branch off from. 
 
-## Stem
+##  Stem
 
 This character refers to the main axis (stem) of the plant.
 
