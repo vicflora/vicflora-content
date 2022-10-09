@@ -3,12 +3,15 @@ title: Wimmera
 category: Bioregions
 regions:
   - Wimmera
+map: 
+  alt: "Natural region map: Wimmera"
+  src: https://data.rbg.vic.gov.au/cip/preview/image/public/146876
 permalink: /pages/wimmera
 ---
 
 ## Location
 
-<bioregion-map-component :regions="regions"></bioregion-map-component>
+<natural-region-map-image :alt="map.alt" :src="map.src"></natural-region-map-image>
 
 The northern boundary of the Wimmera Region approximates the southern limit of the lighter sandy and sandy loam soils of the Mallee Regions. However, several more or less isolated sandy ridges that support mallee communities occur throughout the region (e.g. in the Wycheproof—Dumosa area). The region is divided into separate eastern and western parts by a north–south aligned sandy ridge that is approximately 0.5 km to the east of Dimboola and approximately 4 km to the east of Gerang Gerung.
 

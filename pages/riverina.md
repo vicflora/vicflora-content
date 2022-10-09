@@ -10,6 +10,9 @@ warning:
 regions:
   - Victorian Riverina
   - Murray Fans
+map: 
+  alt: "Natural region map: Riverina"
+  src: https://data.rbg.vic.gov.au/cip/preview/image/public/146886
 images:
   - src: https://data.rbg.vic.gov.au/cip/preview/image/library/69689?maxsize=512
     caption: >
@@ -30,7 +33,7 @@ permalink: /pages/riverina
 
 ## Location
 
-<bioregion-map-component :regions="regions"></bioregion-map-component>
+<natural-region-map-image :alt="map.alt" :src="map.src"></natural-region-map-image>
 
 This region is defined largely on topographical and geological features. However, these features and the vegetation are strongly correlated. The Riverina includes the eastern part of the Murray Basin. The southern and eastern boundary of the region occurs at an elevation of about 150 metres and adjoins the low hills and ranges of the Midlands (Victoria) and South-western Slopes (New South Wales). It extends north to a latitude of about 33°S, including Ivanhoe and Conoble Lake (in New South Wales). The western boundary of this region is the boundary between the aeolian and fluviatile landforms, and associated soils and vegetation. The aeolian landform supports the mallee communities of the Murray Mallee Region.
 

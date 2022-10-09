@@ -3,6 +3,9 @@ title: Gippsland Plain
 category: Bioregions
 regions:
   - Gippsland Plain
+map:
+  alt: "Natural region map: Gippsland Plain"
+  src: "https://data.rbg.vic.gov.au/cip/preview/image/public/146870"
 images:
   - src: https://data.rbg.vic.gov.au/cip/preview/image/library/69701?maxsize=512
     caption: >
@@ -23,7 +26,7 @@ permalink: /pages/gippsland-plain
 
 ## Location
 
-<bioregion-map-component :regions="regions"></bioregion-map-component>
+<natural-region-map-image :alt="map.alt" :src="map.src"></natural-region-map-image>
 
 This region includes the area south of the mountainous country of the Eastern Highlands (below elevations of about 200 metres) to the Victorian coast of Bass Strait, excluding the Strzelecki Ranges (included in the Gippsland Highlands) and Wilsons Promontory. The eastern boundary between this region and East Gippsland has been arbitrarily defined as the eastern shoreline of the lakes from Lakes Entrance to the mouth of the Tambo River (at Lake King), then the Princes Highway to Lucknow, west along the Lucknow to Iguana Creek Road, with Stockdale the most westerly point. The western boundary between this region and the Victorian Volcanic Plain Region is largely defined by the geological boundary between the Upper Cainozoic (Quaternary) basalts (Newer Volcanics of the latter region) and the marine and non-marine Cainozoic alluvia, including the fluviatile sands and gravels of this region. Much of the Port Phillip Bay Sunkland and neighbouring non-volcanic sediments are included in the region.
 

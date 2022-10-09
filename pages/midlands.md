@@ -11,6 +11,9 @@ regions:
   - Goldfields
   - Central Victorian Uplands
   - Northern Inland Slopes
+map: 
+  alt: "Natural region map: Midlands"
+  src: https://data.rbg.vic.gov.au/cip/preview/image/public/146882
 images:
   - src: https://data.rbg.vic.gov.au/cip/preview/image/library/69691?maxsize=512
     caption: >
@@ -30,7 +33,7 @@ permalink: /pages/midlands
 
 ## Location
 
-<bioregion-map-component :regions="regions"></bioregion-map-component>
+<natural-region-map-image :alt="map.alt" :src="map.src"></natural-region-map-image>
 
 The northern and north-eastern boundary of the Midland Region approximates to the southern and south-eastern limits of the flat alluvial plains of the Riverina. In the north, the granitic outcrops of the Terrick Terrick area and those of the Warby Range area form outliers surrounded by the Riverina. In the north-west, this region adjoins the Wimmera. This boundary is frequently broad (up to a few kilometres wide), so that there is often a gradual transition from one region to the other. The western boundary coincides with the sandy outwash slope of the eastern ranges of the Grampians. The southern boundary represents the northern limit of the basalt lava flows of the Victorian Volcanic Plain that characteristically are almost treeless plains, except where the volcanic cones have well-developed forests remaining. This boundary is usually distinct, except in areas that have been extensively cleared. An outlier occurs in the Mt Mercer area (near Meredith). The south-eastern boundary approximates the 610-metre altitude contour shared with the Eastern Highlands, with the Eltham-Plenty-Coldstream area forming a disjunct area surrounded by the Victorian Volcanic Plain, Gippsland Plain and Eastern Highlands Regions.
 

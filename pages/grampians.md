@@ -8,6 +8,9 @@ warning:
     system of bioregions of Victoria.
 regions:
   - Greater Grampians
+map:
+  alt: "Natural region map: Grampians"
+  src: https://data.rbg.vic.gov.au/cip/preview/image/public/146878
 images:
   - src: https://data.rbg.vic.gov.au/cip/preview/image/library/69688?maxsize=512
     caption: >
@@ -22,7 +25,7 @@ permalink: /pages/grampians
 
 ## Location
 
-<bioregion-map-component :regions="regions"></bioregion-map-component>
+<natural-region-map-image :alt="map.alt" :src="map.src"></natural-region-map-image>
 
 The Grampians extend from Mt Zero and the associated scree slope and sandy outwash plain in the north to Mt Abrupt and Mt Sturgeon (at Dunkeld) in the south. The region includes the Mt William and Serra Ranges in the east, with the Victoria and Black Ranges in the west (note: there is another Black Range near Stawell, east of the Grampians, but this is included in the
 Midlands Region). Two outliers, Mt Arapiles and Mitre Rock (west of Natimuk), and Mt Dundas (north-west of Cavendish) have been included in this region. The lateritized plain that occurs between the Black Range and the Grampians (between Brimpaen, Lah-arum and Glenisla) has been included in this region, even though this landform is more characteristic of much of the Wannon Region.

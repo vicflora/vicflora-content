@@ -3,6 +3,9 @@ title: Victorian Volcanic Plain
 category: Bioregions
 regions:
   - Victorian Volcanic Plain
+map:
+  alt: "NMatural region map: Victorian Volcanic Plain"
+  src: https://data.rbg.vic.gov.au/cip/preview/image/public/146872
 images:
   - src: https://data.rbg.vic.gov.au/cip/preview/image/library/69692?maxsize=512
     caption: >
@@ -33,7 +36,7 @@ permalink: /pages/victorian-volcanic-plain
 
 ## Location
 
-<bioregion-map-component :regions="regions"></bioregion-map-component>
+<natural-region-map-image :alt="map.alt" :src="map.src"></natural-region-map-image>
 
 The Victorian Volcanic Plain extends from a latitude of approximately 38°20’S, i.e. from Port Fairy, Warrnambool, Colac, Winchelsea to Geelong (in the south), to Dunkeld and the Grampians (in the north-west), to Buangor, almost to Ararat and to Mt Cameron (in the central north) and to Kilmore (in the north-east). In the west the region extends from the Wannon River and Greenwald to Wallan East, Morang South and Preston (in the east). Outliers occur in the Mt Kincaid–Portland area (south-west) and in the Ballan—Mt Wallace area (east).
 

@@ -3,6 +3,9 @@ title: Lowan Mallee
 category: Bioregions
 regions:
   - Lowan Mallee
+map: 
+  alt: "Natural region map: Lowan Mallee"
+  src: https://data.rbg.vic.gov.au/cip/preview/image/public/146880
 images:
   - src: https://data.rbg.vic.gov.au/cip/preview/image/library/69681?maxsize=512
     caption: >
@@ -15,7 +18,7 @@ permalink: /pages/lowan-mallee
 
 ## Location
 
-<bioregion-map-component :regions="regions"></bioregion-map-component>
+<natural-region-map-image :alt="map.alt" :src="map.src"></natural-region-map-image>
 
 In Victoria this region consists of four disjunct ‘desert’ Lowan Sands areas. It includes the Little Desert in the south (between latitudes 36°25’S and 36°42’S), the Big Desert (between latitudes 35°15’S and 36°15’S), the southern part of the Sunset Country in the north (between latitudes 34°42’S and 35°5’S), and a small disjunct area in the southern part of the Hattah–Kulkyne National Park, to the east of the Calder Highway (at a similar latitude to the previous area). The first three areas join up in South Australia to form a single unit, with the western boundary formed by the Murray River, the eastern shoreline of Lakes Alexandrina and Albert, and the Coorong. This region incorporates part of the Murray Mallee of Laut et al. (1977a, 1977b).
 

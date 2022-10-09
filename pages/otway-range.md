@@ -3,6 +3,9 @@ title: Otway Range
 category: Bioregions
 regions:
   - Otway Ranges
+map:
+  alt: "Natural region map: Otway Range"
+  src: https://data.rbg.vic.gov.au/cip/preview/image/public/146888
 images:
   - src: https://data.rbg.vic.gov.au/cip/preview/image/library/69699?maxsize=512
     caption: >
@@ -20,7 +23,7 @@ permalink: /pages/otway-range
 
 ## Location
 
-<bioregion-map-component :regions="regions"></bioregion-map-component>
+<natural-region-map-image :alt="map.alt" :src="map.src"></natural-region-map-image>
 
 The Otway Range extends from the southern limits of the Tertiary sediments of the Otway Plain (in the north) to the coast in the south. The region includes the Lower Cretaceous sediments of the Otway Group (Anon. 1976; Douglas 1977). The most westerly limit of the region approximates to the 200-metre contour (following the Chapple Vale Fault), including Moonlight Head and a narrow coastal strip to the east of the Gellibrand River mouth. The Gellibrand River valley is excluded from this region (being included in the Otway Plain). The western boundary excludes most of the communities that occur on the coarse Tertiary sands (e.g. heathlands and woodlands with heathy understorey). The eastern boundary of this region follows the western limit of the Moggs Creek catchment, then swings north to just south of Bambra.
 

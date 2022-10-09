@@ -10,6 +10,9 @@ warning:
 regions:
   - Highlands-Southern Fall
   - Highlands-Northern Fall
+map:
+  alt: "Natural region map: Eastern Highlands"
+  src: https://data.rbg.vic.gov.au/cip/preview/image/public/146860
 images:
   - src: https://data.rbg.vic.gov.au/cip/preview/image/library/69696?maxsize=512
     caption: >
@@ -31,7 +34,7 @@ permalink: /pages/eastern-highlands
 
 ## Location
 
-<bioregion-map-component :regions="regions"></bioregion-map-component>
+<natural-region-map-image :alt="map.alt" :src="map.src"></natural-region-map-image>
 
 This region extends down from the higher-altitude Snowfields below 900—1300 metres to an elevation of about 200 metres (adjacent to the Midland Region in the north and the Gippsland Plain in the south). The wet sclerophyll forests below the _Eucalyptus delegatensis_ community are included in this region. However, it was not possible to circumscribe this region accurately by a generalized and simplified boundary. The highly dissected and rugged landscape results in the development of an extremely complex mosaic of floristic communities. The western limit of this region is geologically (and floristically) defined by the position of the eastern limits of the Newer Volcanic basalt plain (of the Victorian Volcanic Plain). These two regions adjoin at Kilmore East and just north of Yan Yean (between longitudes of approximately 145°00’ and 145°05’E). In the north-east this region is continuous with the Southern Tablelands (of New South Wales), whereas, in the south-east it is juxtaposed with [East Gippsland](./east-gippsland) (refer to the latter region for a description of their common boundary).
 

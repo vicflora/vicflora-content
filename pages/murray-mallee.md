@@ -11,6 +11,9 @@ regions:
   - Murray Mallee
   - Murray Scroll Belt
   - Robinvale Plains
+map:
+  alt: "Natural region map: Murray Mallee"
+  src: https://data.rbg.vic.gov.au/cip/preview/image/public/146874
 images:
   - src: https://data.rbg.vic.gov.au/cip/preview/image/library/69676?maxsize=512
     caption: >
@@ -39,7 +42,7 @@ The physiographic province described by the general term ‘Mallee’ refers to 
 
 ## Location
 
-<bioregion-map-component :regions="regions"></bioregion-map-component>
+<natural-region-map-image :alt="map.alt" :src="map.src"></natural-region-map-image>
 
 The southern limits of the Murray Mallee Region forms a narrow zone in the Dimboola and Gerang Gerung area that separates the western and eastern parts of the Wimmera Region. The Little Desert of the Lowan Mallee Region isolates a small disjunct area of the Murray Mallee to the west of Horsham. The region extends beyond the Murray River (into New South Wales and South Australia) in the north to about the 33°S meridian of latitude, with more scattered occurrences extending towards Menindee (latitude about 32°30’S). In New South Wales this region occurs mainly to the east of the Darling River and then to the west of the Silver City Highway. In South Australia the northern limits approximate the northern boundary of the Dangalli Conservation Park, north of Renmark. Although no attempt has been made to map the exact extent of this region in South Australia, it extends north into the southern (particularly, south-western) part of the South Olary Plains environmental region of the Eastern province (Laut et al. 1977a, 1977b). The eastern boundary (in Victoria) is formed by the western limit of the current floodplain of the Avoca River, with the western boundary adjoining the eastern limits of the Lowan Mallee (the Big Desert and the southern parts of the Sunset Country). At latitude about 34°40’S the region extends westerly, from Victoria to just north of Nildottie on the Murray River in South Australia. It then includes the area between the eastern edge of the Mt Lofty Ranges escarpment and the Murray River as far south as Langhorne Creek in the Bleasdale environmental association of the south-east mallee environmental heathlands region in South Australia of Laut et al. (1977a, 1977b) and as far north as a latitude of about 34°S. There are several outliers, particularly in New South Wales. This suggests that the mallee communities have expanded and contracted with changes in climate (Beadle 1981). In Victoria outliers occur north of Bendigo in the ‘Whipstick Mallee’, and near Melton (Myers 1986).
 

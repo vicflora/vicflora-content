@@ -9,6 +9,9 @@ warning:
     comprises the IBRA 7 <b>Victorian Alps</b> and <b>Snowy Mountains</b>
     subregions. In the current system of Victorian bioregions these are merged
     into <b>Victorian Alps</b>.
+map: 
+  alt: "Natural region map: Snowfields"
+  src: https://data.rbg.vic.gov.au/cip/preview/image/public/146864
 images:
   - src: https://data.rbg.vic.gov.au/cip/preview/image/library/69707?maxsize=512
     caption: >
@@ -32,7 +35,7 @@ permalink: /pages/snowfields
 
 ## Location
 
-<bioregion-map-component :regions="regions"></bioregion-map-component>
+<natural-region-map-image :alt="map.alt" :src="map.src"></natural-region-map-image>
 
 The Snowfields Region is naturally defined as the area that extends up from the lower limit (during winter) of regularly snow-covered ground (generally between 900 and 1300 metres). This altitude range approximates to the lower limit of _Eucalyptus delegatensis_-dominated forests. The mapping of this region has proved difficult because of the highly dissected nature of the terrain. Furthermore, although montane, sub-alpine, and alpine conditions are generally zoned according to elevation (Costin 1957), temperature inversions in valleys and upland plains situated at montane elevations frequently produce high mountain conditions. Areas where communities of _E. delegatensis_ occur without associated sub-alpine or alpine communities (e.g. Mt Donna Buang, Mt Ellery and Mt Macedon) have not been included within the Snowfields Region.
 

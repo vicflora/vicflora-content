@@ -9,6 +9,9 @@ warning:
     bioregions in Victoria.
 regions:
   - Strzelecki Ranges
+map:
+  alt: "Natural region: Gippsland Highlands"
+  src: https://data.rbg.vic.gov.au/cip/preview/image/public/146858 
 images:
   - src: https://data.rbg.vic.gov.au/cip/preview/image/library/69702?maxsize=512
     caption: >
@@ -27,11 +30,11 @@ images:
 permalink: /pages/gippsland-highlands
 ---
 
-<markdown-alert-component :srtypec="warning.type" :caption="warning.content"></markdown-alert-component>
+<markdown-alert-component :type="warning.type" :content="warning.content"></markdown-alert-component>
 
 ## Location
 
-<bioregion-map-component :regions="regions"></bioregion-map-component>
+<natural-region-map-image :alt="map.alt" :src="map.src"></natural-region-map-image>
 
 The boundary of this region approximates the 150–200 metre elevation contour interval and so includes the Strzelecki Ranges. These ranges are an example of block mountains and, as such, are largely defined by the various geological faults (refer Hills 1940). This region is completely surrounded by the Gippsland Plain.
 

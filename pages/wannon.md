@@ -5,12 +5,15 @@ regions:
   - Glenelg Plain
   - Bridgewater
   - Dundas Tablelands
+map:
+  alt: "Natural region map: Wannon"
+  src: https://data.rbg.vic.gov.au/cip/preview/image/public/146884
 permalink: /pages/wannon
 ---
 
 ## Location
 
-<bioregion-map-component :regions="regions"></bioregion-map-component>
+<natural-region-map-image :alt="map.alt" :src="map.src"></natural-region-map-image>
 
 This region includes that area south of the Little Desert to the Victorian coast, and west of the Grampians, extending into and including the South-East province of Laut et al. (1977a, 1977b) in South Australia. The boundary between this region and the Wimmera has been arbitrarily defined as the edge of the nearest north–south running aeolian sand-ridge to the west of Natimuk (crossing the Wimmera Highway approximately 44 km WSW of Horsham). This ridge is part of a series of parallel sand-ridges that alternate with mixtures of grey clays, loam soils and swamps. The south-eastern boundary between this region and the Victorian Volcanic Plain Region is largely defined as the most westerly limit of the Upper Cainozoic (Quaternary) basalts of the Newer Volcanics. However, communities typical of the Wannon Region occur in several places where sands have been deposited on these basalts (e.g. near the Nigretta and Wannon Falls). Extensive clearing in this area has often made it impossible to use vegetation changes to identify the junction between this region and the Volcanic Plain. Allestree (Portland Bay) has been arbitrarily chosen as the south-eastern coastal limit of this region.
 

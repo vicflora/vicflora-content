@@ -13,6 +13,9 @@ regions:
   - Highlands-Far East
   - East Gippsland Uplands
   - East Gippsland Lowlands
+map:
+  alt: "Natural region map: East Gippsland"
+  src: "https://data.rbg.vic.gov.au/cip/preview/image/public/146868"
 images:
   - src: https://data.rbg.vic.gov.au/cip/preview/image/library/69709?maxsize=512
     caption: >
@@ -41,7 +44,7 @@ permalink: /pages/east-gippsland
 
 ## Location
 
-<bioregion-map-component :regions="regions"></bioregion-map-component>
+<natural-region-map-image :alt="map.alt" :src="map.src"></natural-region-map-image>
 
 The north-western boundary of East Gippsland approximates the 1200-metre altitude contour and is shared with the Snowfields Region. The East Gippsland Region includes the area south of this boundary to the Victorian coast. The western boundary has been arbitrarily defined as the Tambo River valley and the Omeo Highway from near Mt Tongio to Tambo Crossing, then sweeping westward to include the gorge and environs of the Mitchell River, with the most westerly limit including the Mt Moornapa Flora Reserve (25 km NNE of Stratford). This boundary is shared by the Eastern Highlands south to Stockdale, from where there is a common boundary to the east with the Gippsland Plains. In New South Wales this region adjoins the Monaro Region _(sensu_ Costin 1954) of the Southern Tablelands and is continuous with the South Coast Region. A small part of the Monaro Tableland extends into Victoria in the vicinity of Bendoc. In New South Wales the ‘East Gippsland’ Region is here defined as including the _Callitris glaucophylla–Eucalyptus albens_ rainshadow woodland association, the _E. melliodora–E. blakelyi_ woodland association, the _E. macrorhyncha–E. rossii_ dry sclerophyll forest association, and the _E. fastigata–E. viminalis_ wet sclerophyll forest association.
 

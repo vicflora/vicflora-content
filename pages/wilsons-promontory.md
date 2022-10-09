@@ -3,6 +3,9 @@ title: Wilsons Promontory
 category: Bioregions
 regions:
   - Wilsons Promontory
+map: 
+  alt: "Natural region map: Wilsons Promontory"
+  src: https://data.rbg.vic.gov.au/cip/preview/image/public/146862
 images:
   - src: https://data.rbg.vic.gov.au/cip/preview/image/library/69704?maxsize=512
     caption: >
@@ -23,7 +26,7 @@ permalink: /pages/wilsons-promontory
 
 ## Location
 
-<bioregion-map-component :regions="regions"></bioregion-map-component>
+<natural-region-map-image :alt="map.alt" :src="map.src"></natural-region-map-image>
 
 This region is the most southerly part of mainland Australia. The north-western and northern boundary includes the Darby River (west coast) and the south-west corner of Corner Inlet. The remaining promontory to the south of this boundary constitutes the region. The low, sandy, Yanakie Isthmus that connects this southern, granitic mountainous mass to the mainland is excluded from the region, even though it is part of the current National Park. The islands included in this region are Doboy (Doughboy), Benison and Granite (in Corner Inlet); Shellback (west coast), Rabbit, and the Seal Group (east coast), and all islands north of Rodondo and the Hogan Group.
 

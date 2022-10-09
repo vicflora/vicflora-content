@@ -10,6 +10,9 @@ warning:
 regions:
   - Warrnambool Plain
   - Otway Plain
+map:
+  alt: "Natural region map: Otway Plain"
+  src: https://data.rbg.vic.gov.au/cip/preview/image/public/146866
 images:
   - src: https://data.rbg.vic.gov.au/cip/preview/image/library/69694?maxsize=512
     caption: >
@@ -32,7 +35,7 @@ permalink: /pages/otway-plain
 
 ## Location
 
-<bioregion-map-component :regions="regions"></bioregion-map-component>
+<natural-region-map-image :alt="map.alt" :src="map.src"></natural-region-map-image>
 
 The Otway Plain includes the Tertiary sediments of the coastal plains that are bounded on the north by the Quaternary Newer Volcanics of the Victorian Volcanic Plain Region. In the south the region is bounded, in part, by the Southern Ocean and the Lower Cretaceous sediments of the Otway Group. The region extends from near Allestree (Portland Bay) in the west, to and including the Bellarine Peninsula in the east. A narrow projection of the Victorian Volcanic Plain (near Point Flinders, Barwon Heads) separates the Bellarine Peninsula from the remaining western part of the region. The boundary with the western part of the Otway Range approximates to the 200-metre contour (following the Chapple Vale Fault), including the Gellibrand River valley. The boundary with the eastern parts of the Otway Range encompasses most of Moggs Creek—to the west of Aireys Inlet (on the coast), and the lower reaches of Painkalac Creek north-west to just south of Bambra (inland).
 
