@@ -25,7 +25,7 @@ cards:
         text: Search
       - to: flora/classification/74092d37-57d4-4d07-b47a-bec48a5942ca
         text: Browse classification
-      - to: pages/bryophyta
+      - to: flora/matrix-keys/bryophyta
         text: Multi-access key to the mosses of Victoria
 slides:
   - index: 0
