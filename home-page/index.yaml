@@ -1,15 +1,15 @@
 title: Home page
 intro: >
-  VicFlora is a comprehensive and current guide to the wild plants of Victoria. 
-  The species profiles and identification tools that make up this richly 
-  illustrated resource are provided by Royal Botanic Gardens Victoria 
-  free of charge for use by land managers, scientists, students and anyone 
-  else with an interest in the Victorian flora. The platform currently provides 
+  VicFlora is a comprehensive and current guide to the wild plants of Victoria.
+  The species profiles and identification tools that make up this richly
+  illustrated resource are provided by Royal Botanic Gardens Victoria
+  free of charge for use by land managers, scientists, students and anyone
+  else with an interest in the Victorian flora. The platform currently provides
   resources for vascular plants (including seed plants and ferns) and mosses.
 cards:
   - title: Vascular plants
     image: https://vicflora-cdn.rbg.vic.gov.au/assets/homepage/card-image-tracheophyta.jpg
-    links: 
+    links:
       - to: flora/search?q=%2a&fq=phylum%3ATracheophyta
         text: Search
       - to: flora/classification/6abc498a-70de-11e6-a989-005056b0018f
@@ -20,11 +20,13 @@ cards:
         text: Multi-access keys
   - title: Mosses
     image: https://vicflora-cdn.rbg.vic.gov.au/assets/homepage/card-image-bryophyta.jpg
-    links: 
+    links:
       - to: flora/search?q=%2a&fq=phylum%3ABryophyta
         text: Search
       - to: flora/classification/74092d37-57d4-4d07-b47a-bec48a5942ca
         text: Browse classification
+      - to: pages/bryophyta
+        text: Multi-access key to the mosses of Victoria
 slides:
   - index: 0
     imgSource: https://vicflora-cdn.rbg.vic.gov.au/assets/homepage/carousel-slide-0.jpg
