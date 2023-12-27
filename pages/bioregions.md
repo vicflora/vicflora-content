@@ -4,7 +4,6 @@ category: Bioregions
 ---
 
 <bioregions-map></bioregions-map>
-<bioregions-image-map></bioregions-image-map>
 
 <div class="vf-bioregions-map-legend row">
   <div class="col-md-4">
