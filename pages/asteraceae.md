@@ -5,6 +5,8 @@ title: Multi-access key to the Asteraceae of Victoria
 permalink: /pages/asteraceae
 taxonomicScope:
   - Asteraceae
+datePublished: "2022-03-10"
+dateModified: "2022-08-26"
 image: https://vicflora-cdn.rbg.vic.gov.au/assets/matrix-keys/card-image-asteraceae.jpg
 ---
 

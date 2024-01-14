@@ -29,6 +29,8 @@ images:
       <i>Luzula novae-cambriae</i>, <i>Rhodanthe anthemoides</i> and
       <i>Hypochoeris radicata</i>. Mt Feathertop summit area.</b>
 permalink: /pages/snowfields
+datePublished: 2022-03-08
+dateModified: 2022-10-09
 ---
 
 <markdown-alert-component :type="warning.type" :content="warning.content"></markdown-alert-component>

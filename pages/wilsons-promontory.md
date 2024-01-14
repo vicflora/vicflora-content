@@ -22,6 +22,8 @@ images:
       <i>Allocasuarina verticillata</i>, <i>Eucalyptus baxteri</i> woodland in 
       background. East coast, Whisky Bay.</b>
 permalink: /pages/wilsons-promontory
+datePublished: 2022-03-08
+dateModified: 2022-10-09
 ---
 
 ## Location

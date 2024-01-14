@@ -3,6 +3,8 @@ layout: page-toc
 title: Contact us
 category: About
 permalink: /pages/contact-us
+datePublished: 2022-03-08
+dateModified: 2022-07-18
 ---
 
 For all enquiries about copyright, as well as any suggestions for improving VicFlora, including usability of the website, new plant records and improvements to keys or

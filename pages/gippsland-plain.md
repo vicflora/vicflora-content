@@ -22,6 +22,8 @@ images:
       with intervening tussocks of <i>Stipa stipoides</i> and <i>Gahnia 
       trifida</i>. Toora, Corner Inlet (Wilsons Promontory in background).</b>
 permalink: /pages/gippsland-plain
+datePublished: 2022-03-08
+dateModified: 2022-10-09
 ---
 
 ## Location

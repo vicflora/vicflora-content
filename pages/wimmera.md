@@ -7,6 +7,8 @@ map:
   alt: "Natural region map: Wimmera"
   src: https://data.rbg.vic.gov.au/cip/preview/image/public/146876
 permalink: /pages/wimmera
+datePublished: 2022-03-08
+dateModified: 2022-10-09
 ---
 
 ## Location

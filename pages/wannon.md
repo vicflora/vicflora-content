@@ -9,6 +9,8 @@ map:
   alt: "Natural region map: Wannon"
   src: https://data.rbg.vic.gov.au/cip/preview/image/public/146884
 permalink: /pages/wannon
+datePublished: 2022-03-08
+dateModified: 2022-10-09
 ---
 
 ## Location

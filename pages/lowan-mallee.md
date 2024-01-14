@@ -14,6 +14,8 @@ images:
       descending to loamy sand mallee dominated by <i>Eucalyptus costata</i>, 
       <i>Callitris verrucosa</i>. Red Bluff, Big Desert.</b>
 permalink: /pages/lowan-mallee
+datePublished: 2022-03-08
+dateModified: 2022-10-09
 ---
 
 ## Location

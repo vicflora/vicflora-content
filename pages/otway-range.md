@@ -19,6 +19,8 @@ images:
       <i>Eucalyptus regnans</i> (not pictured) forms canopy of surrounding 
       forest. Erskine Falls, near Lorne.</b>
 permalink: /pages/otway-range
+datePublished: 2022-03-08
+dateModified: 2022-10-09
 ---
 
 ## Location

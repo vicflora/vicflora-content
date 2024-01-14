@@ -1,6 +1,8 @@
 ---
 title: Bioregions of Victoria
 category: Bioregions
+datePublished: "2022-03-08"
+dateModified: "2023-12-28"
 ---
 
 <bioregions-map></bioregions-map>

@@ -32,6 +32,8 @@ images:
       around margin and <i>Wolffia australiana</i> on surface. Floating Islands 
       Reserve near Camperdown.</b>
 permalink: /pages/victorian-volcanic-plain
+datePublished: 2022-03-08
+dateModified: 2022-10-09
 ---
 
 ## Location

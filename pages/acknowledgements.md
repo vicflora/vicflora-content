@@ -3,6 +3,8 @@ layout: page
 title: Acknowledgements
 category: About
 permalink: /pages/acknowledgements
+datePublished: 2022-03-08
+dateModified: 2022-07-28
 ---
 
 Contributions by the original _Flora of Victoria_ writers and editors are acknowledged at the bottom of profile pages.  Images sourced from _Flora of Victoria_ are acknowledged in figure legends.

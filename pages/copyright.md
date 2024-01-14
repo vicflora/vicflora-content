@@ -3,6 +3,8 @@ layout: page-toc
 title: Copyright and reproduction
 category: About
 permalink: /pages/copyright
+datePublished: 2022-03-08
+dateModified: 2022-03-10
 ---
 
 The text in VicFlora is provided under copyright by the Royal Botanic Gardens Board, but is published here under a Creative Commons Attribution 4.0 international licence ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)). 

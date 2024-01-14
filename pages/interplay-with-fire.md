@@ -52,6 +52,8 @@ images:
       showing the release of the two, winged seeds per follicle in the Little 
       Desert National Park.
 permalink: /pages/interplay-with-fire
+datePublished: 2022-03-10
+dateModified: 2022-03-10
 ---
 
 <markdown-alert-component :type="warning.type" :content="warning.content"></markdown-alert-component>

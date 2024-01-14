@@ -28,6 +28,8 @@ images:
       <i>Tetrarrhena juncea</i>. Tarra River valley, Tarra–Bulga National 
       Park.</b>
 permalink: /pages/gippsland-highlands
+datePublished: 2022-03-08
+dateModified: 2022-10-09
 ---
 
 <markdown-alert-component :type="warning.type" :content="warning.content"></markdown-alert-component>

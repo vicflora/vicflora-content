@@ -28,6 +28,8 @@ images:
       antarctica</i> and <i>Gahnia sieberiana</i> fringing creek. Walsh Creek, 
       Upper Yarra Catchment.</b>
 permalink: /pages/eastern-highlands
+datePublished: 2022-03-08
+dateModified: 2022-10-09
 ---
 
 <markdown-alert-component :type="warning.type" :content="warning.content"></markdown-alert-component>

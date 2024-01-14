@@ -19,6 +19,8 @@ images:
       <i>Eucalyptus baxteri</i> and <i>E. goniocalyx</i> dry forests on the 
       northern approaches of Mt Arapiles.></b>
 permalink: /pages/grampians
+datePublished: 2022-03-08
+dateModified: 2022-10-09
 ---
 
 <markdown-alert-component :type="warning.type" :content="warning.content"></markdown-alert-component>

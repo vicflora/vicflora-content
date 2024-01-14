@@ -27,6 +27,8 @@ images:
       tricarpa</i>, with open understorey, including <i>Acacia acinacea</i>,
       <i>A. pycnantha</i>, <i>Cassinia arcuata</i>. Whroo-Rushworth area.</b>
 permalink: /pages/midlands
+datePublished: 2022-03-08
+dateModified: 2022-10-09
 ---
 
 <markdown-alert-component :type="warning.type" :content="warning.content"></markdown-alert-component>

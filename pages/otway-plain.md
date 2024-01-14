@@ -29,6 +29,8 @@ images:
       <i>Eucalyptus willisii</i> an occasional emergent. <i>Xanthorrhoea 
       australis</i> in background. Bald Hills, Anglesea.</b>
 permalink: /pages/otway-plain
+datePublished: 2022-03-08
+dateModified: 2022-10-09
 ---
 
 <markdown-alert-component :type="warning.type" :content="warning.content"></markdown-alert-component>

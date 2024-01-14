@@ -38,6 +38,8 @@ images:
       <i>Elaeocarpus holopetalus</i>. <i>Eucalyptus denticulata</i> emergent. 
       Errinundra plateau.
 permalink: /pages/east-gippsland
+datePublished: 2022-03-08
+dateModified: 2022-10-09
 ---
 
 <markdown-alert-component :type="warning.type" :content="warning.content"></markdown-alert-component>
