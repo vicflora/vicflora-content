@@ -27,6 +27,8 @@ cards:
         text: Browse classification
       - to: flora/matrix-keys/bryophyta
         text: Multi-access key to the mosses of Victoria
+  - title: Coming up...
+    image: https://vicflora-cdn.rbg.vic.gov.au/assets/homepage/dancing-mushroom.gif
 slides:
   - index: 0
     imgSource: https://vicflora-cdn.rbg.vic.gov.au/assets/homepage/carousel-slide-0.jpg
