@@ -222,7 +222,7 @@ dateModified: "2023-12-28"
       <tr>
         <th scope="col">Flora of Victoria (1993) Natural Region</th>
         <th scope="col"><strong>IBRA 7 Region</strong></th>
-        <th scope="col"><strong>IBRA 7 Subegion</strong></th>
+        <th scope="col"><strong>IBRA 7 Subregion</strong></th>
         <th scope="col">Victorian Bioregion</th>
       </tr>
     </thead>
