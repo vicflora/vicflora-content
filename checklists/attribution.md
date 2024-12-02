@@ -2,6 +2,8 @@
 title: Checklists attribution
 ---
 
+#### Areas
+
 **Parks and reserves:**
 Department of Environment, Land, Water & Planning (2022). Parks and Conservation Reserves (PARKRES). &lt;https://discover.data.vic.gov.au/dataset/parks-and-conservation-reserves-parkres1&gt; [<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg" alt="cc by logo" width="40"/>](https://creativecommons.org/licenses/by/4.0/)
 
@@ -13,3 +15,10 @@ Department of Environment, Land, Water & Planning (2022). Local Government Area 
 
 **Registered Aboriginal Parties:**
 Department of Environment, Land, Water & Planning (2022). Registered Aboriginal Parties (RAP) Appointed Boundaries. &lt;https://discover.data.vic.gov.au/dataset/registered-aboriginal-parties-rap-appointed-boundaries&gt; [<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg" alt="cc by logo" width="40"/>](https://creativecommons.org/licenses/by/4.0/)
+
+
+#### Occurrences
+
+**AVH (2024)**. Australia's Virtual Herbarium, Council of Heads of Australasian Herbaria, <http://avh.chah.org.au>. 
+
+**Victorian Biodiversity Atlas (2024)**. © The State of Victoria, Department of Environment and Primary Industries. <https://collections.ala.org.au/public/show/dr1097>
