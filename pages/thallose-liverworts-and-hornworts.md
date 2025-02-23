@@ -84,6 +84,12 @@ This key was produced by Shenali Fernando during a 2022/2023 Willis Studentship
 placement offered by the Royal Botanic Gardens and funded by the Cybec
 Foundation.
 
+<markdown-button-link-component 
+  :href="'/flora/matrix-keys/thallose-liverworts-and-hornworts'"
+  :button_text="'Go to Key Player'" 
+  :size="'lg'" :target="'\_blank'">
+</markdown-button-link-component>
+
 ## General helpful hints
 
 For the most effective use of this key the user is encouraged to read the help

@@ -71,6 +71,12 @@ further character states present in their specimen until identification is
 achieved. To restart the key when finished select the restart key icon
 represented by the two green arrows in the top left corner of the screen.
 
+<markdown-button-link-component 
+  :href="'/flora/matrix-keys/leafy-liverworts'" 
+  :button_text="'Go to Key Player'" 
+  :size="'lg'" :target="'\_blank'">
+</markdown-button-link-component>
+
 ## General helpful hints
 
 For the most effective use of this key the user is encouraged to read the help
