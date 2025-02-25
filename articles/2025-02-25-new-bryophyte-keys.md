@@ -24,15 +24,14 @@ The following bryophyte keys are available:
 
 <br/>
 
-![liverworts: Plachiochasma rupestre](https://vicflora-cdn.rbg.vic.gov.au/assets/canto/preview/d3tv0c8te52fn01pn2717h8657-20241231101916709.jpg)
-
-<caption><i>Plagiochasma rupestre</i>. Photograph: Daniel Ohlsen, Royal Botanic Gardens Victoria, <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>.</caption>
+![hornworts: Phaeoceros engleri](https://vicflora-cdn.rbg.vic.gov.au/assets/canto/highestres/o8a0t47hn93n78e1qdji36dp1l-20240328134333350.jpg)
+<caption><i>Phaeoceros engleri</i>. Photograph: Daniel Ohlsen, Royal Botanic Gardens Victoria, <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>.</caption>
 
 <br/>
 
-![liverworts: Bazzania adnexa](https://vicflora-cdn.rbg.vic.gov.au/assets/canto/preview/pc7gemobud5fd17m3ksbiurq7k-20250212114136823.jpg)
+![liverworts: Trichocolea mollissima](https://vicflora-cdn.rbg.vic.gov.au/assets/canto/highestres/5gjfeodkid4ctfhc9sdrdgk46l-20240328144403347.jpg)
 
-<caption><i>Bazzania adnexa</i>. Illustration: Jess ...?, Royal Botanic Gardens Victoria, <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>.</caption>
+<caption><i>Trichocolea mollissima</i>. Photograph: Daniel Ohlsen, Royal Botanic Gardens Victoria, <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>.</caption>
 
 <br/>
 <br/>
