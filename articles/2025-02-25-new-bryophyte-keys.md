@@ -31,7 +31,7 @@ The following bryophyte keys are available:
 
 ![Plagiochasma rupestre, a thalloid liverwort](https://vicflora-cdn.rbg.vic.gov.au/assets/canto/preview/d3tv0c8te52fn01pn2717h8657-20241231101916709.jpg)
 
-<caption><i>Plachiochasma rupestre</i>, a thalloid liverwort. Photograph: Daniel Ohlsen, Royal Botanic Gardens Victoria, <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>.</caption>
+<caption><i>Plachiochasma rupestre</i>, a thallose liverwort. Photograph: Daniel Ohlsen, Royal Botanic Gardens Victoria, <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>.</caption>
 
 <br/>
 
