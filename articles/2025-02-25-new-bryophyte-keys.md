@@ -25,23 +25,29 @@ The following bryophyte keys are available:
 <br/>
 
 ![hornworts: Phaeoceros engleri](https://vicflora-cdn.rbg.vic.gov.au/assets/canto/highestres/o8a0t47hn93n78e1qdji36dp1l-20240328134333350.jpg)
-<caption><i>Phaeoceros engleri</i>, a hornwort. Photograph: Daniel Ohlsen, Royal Botanic Gardens Victoria, <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>.</caption>
+
+_Phaeoceros engleri_, a hornwort. Photograph: Daniel Ohlsen, Royal Botanic Gardens Victoria, [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 <br/>
 
 ![Plagiochasma rupestre, a thalloid liverwort](https://vicflora-cdn.rbg.vic.gov.au/assets/canto/preview/d3tv0c8te52fn01pn2717h8657-20241231101916709.jpg)
 
-<caption><i>Plachiochasma rupestre</i>, a thallose liverwort. Photograph: Daniel Ohlsen, Royal Botanic Gardens Victoria, <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>.</caption>
+_Plachiochasma rupestre_, a thallose liverwort. Photograph: Daniel Ohlsen, Royal
+Botanic Gardens Victoria, [CC BY-NC-SA
+4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 <br/>
 
 ![liverworts: Trichocolea mollissima](https://vicflora-cdn.rbg.vic.gov.au/assets/canto/highestres/5gjfeodkid4ctfhc9sdrdgk46l-20240328144403347.jpg)
 
-<caption><i>Trichocolea mollissima</i>, a leafy liverwort. Photograph: Daniel Ohlsen, Royal Botanic Gardens Victoria, <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>.</caption>
+_Trichocolea mollissima_, a leafy liverwort. Photograph: Daniel Ohlsen, Royal Botanic Gardens Victoria, [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 <br/>
 
 ![mosses: Mniodendron
 comosum](https://vicflora-cdn.rbg.vic.gov.au/assets/canto/preview/1oocfobssh33nc5pluok7htj55-20241231102024955.jpg)
 
-<caption><i>Mniodendron comosum</i>, a moss. Photograph: Daniel Ohlsen, Royal Botanic Gardens Victoria, <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>.</caption>
+_Mniodendron comosum_, a moss. Photograph: Daniel Ohlsen, Royal Botanic Gardens
+Victoria, [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+<br/>
