@@ -17,47 +17,18 @@ cards:
         text: Browse classification
       - to: flora/key/1903
         text: Key to the main groups of vascular plants
-      - to: flora/matrix-keys
+      - to: flora/matrix-keys#vascular-plants
         text: Multi-access keys
   - title: Mosses
     image: https://vicflora-cdn.rbg.vic.gov.au/assets/homepage/card-image-bryophyta.jpg
     links:
-      - to: flora/search?q=%2a&fq=phylum%3ABryophyta
+      - to: flora/search?q=%2a&fq=phylum%3A%28Bryophyta%20OR%20Marchantiophyta%20OR%20Anthocerotophyta%29
         text: Search
+      - to: flora/classification/8ef19e15-fa60-4266-899c-8d8b4b852069
+        text: Browse hornworts
+      - to: flora/classification/ddb01130-07f7-4a33-9032-a05a2a458c41
+        text: Browse liverworts
       - to: flora/classification/74092d37-57d4-4d07-b47a-bec48a5942ca
-        text: Browse classification
-      - to: flora/matrix-keys/bryophyta
-        text: Multi-access key to the mosses of Victoria
-slides:
-  - index: 0
-    imgSource: https://vicflora-cdn.rbg.vic.gov.au/assets/homepage/carousel-slide-0.jpg
-    caption: >
-      Illustration: Barley, Anita. ©2021 Royal Botanic Gardens Victoria. CC BY-NC-SA 4.0.
-  - index: 1
-    imgSource: https://vicflora-cdn.rbg.vic.gov.au/assets/homepage/carousel-slide-1.jpg
-    caption: >
-      Illustration: Anita Barley, Royal Botanic Gardens Victoria. CC BY-NC-SA 4.0.
-  - index: 2
-    imgSource: https://vicflora-cdn.rbg.vic.gov.au/assets/homepage/carousel-slide-2.jpg
-    caption: >
-      Illustration: Anita Barley, Royal Botanic Gardens Victoria. CC BY-NC-SA 4.0.
-  - index: 3
-    imgSource: https://vicflora-cdn.rbg.vic.gov.au/assets/homepage/carousel-slide-3.jpg
-    caption: >
-      Illustration: Anita Barley, Royal Botanic Gardens Victoria. CC BY-NC-SA 4.0.
-  - index: 4
-    imgSource: https://vicflora-cdn.rbg.vic.gov.au/assets/homepage/carousel-slide-4.jpg
-    caption: >
-      Illustration: Anita Barley, Royal Botanic Gardens Victoria. CC BY-NC-SA 4.0.
-  - index: 5
-    imgSource: https://vicflora-cdn.rbg.vic.gov.au/assets/homepage/carousel-slide-5.jpg
-    caption: >
-      Illustration: Anita Barley, Royal Botanic Gardens Victoria. CC BY-NC-SA 4.0.
-  - index: 6
-    imgSource: https://vicflora-cdn.rbg.vic.gov.au/assets/homepage/carousel-slide-6.jpg
-    caption: >
-      Illustration: Anita Barley, Royal Botanic Gardens Victoria. CC BY-NC-SA 4.0.
-  - index: 7
-    imgSource: https://vicflora-cdn.rbg.vic.gov.au/assets/homepage/carousel-slide-7.jpg
-    caption: >
-      Illustration: Anita Barley, Royal Botanic Gardens Victoria. CC BY-NC-SA 4.0.
+        text: Browse mosses
+      - to: flora/matrix-keys#bryophytes
+        text: Multi-access keys
