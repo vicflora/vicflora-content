@@ -2,10 +2,11 @@ title: Home page
 intro: >
   VicFlora is a comprehensive and current guide to the wild plants of Victoria.
   The species profiles and identification tools that make up this richly
-  illustrated resource are provided by Royal Botanic Gardens Victoria
-  free of charge for use by land managers, scientists, students and anyone
-  else with an interest in the Victorian flora. The platform currently provides
-  resources for vascular plants (including seed plants and ferns) and mosses.
+  illustrated resource are provided by Royal Botanic Gardens Victoria free of
+  charge for use by land managers, scientists, students and anyone else with an
+  interest in the Victorian flora. The platform currently provides resources for
+  vascular plants (including seed plants and ferns) and bryophytes (mosses,
+  liverworts and hornworts).
 cards:
   - title: Vascular plants
     image: https://vicflora-cdn.rbg.vic.gov.au/assets/homepage/card-image-tracheophyta.jpg

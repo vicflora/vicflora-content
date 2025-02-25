@@ -1,7 +1,7 @@
 ---
 layout: page-toc
-category: Multi-access keys
-title: Multi-access key to the thallose liverworts and hornworts of Victoria
+category: Multi-access keys bryophytes
+title: Multi-access key to the hornworts and thallose liverworts of Victoria
 permalink: /pages/thallose-liverworts-and-hornworts
 taxonomicScope:
   - Anthocerotophyta

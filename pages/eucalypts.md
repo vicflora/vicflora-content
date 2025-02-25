@@ -1,6 +1,6 @@
 ---
 layout: page-toc
-category: Multi-access keys
+category: Multi-access keys vascular plants
 title: Multi-access key to the Eucalypts of Victoria
 permalink: /pages/eucalypts
 taxonomicScope: 

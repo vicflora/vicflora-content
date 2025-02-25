@@ -1,5 +1,5 @@
 ---
-category: Multi-access keys
+category: Multi-access keys vascular plants
 title: Multi-access key to the Acacia of Victoria
 permalink: /pages/acacia
 taxonomicScope: 
