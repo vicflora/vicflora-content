@@ -19,7 +19,7 @@ cards:
         text: Key to the main groups of vascular plants
       - to: flora/matrix-keys#vascular-plants
         text: Multi-access keys
-  - title: Mosses
+  - title: Bryophytes
     image: https://vicflora-cdn.rbg.vic.gov.au/assets/homepage/card-image-bryophyta.jpg
     links:
       - to: flora/search?q=%2a&fq=phylum%3A%28Bryophyta%20OR%20Marchantiophyta%20OR%20Anthocerotophyta%29
