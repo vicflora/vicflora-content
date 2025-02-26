@@ -24,30 +24,29 @@ The following bryophyte keys are available:
 
 <br/>
 
-![hornworts: Phaeoceros engleri](https://vicflora-cdn.rbg.vic.gov.au/assets/canto/highestres/o8a0t47hn93n78e1qdji36dp1l-20240328134333350.jpg)
+![Phaeoceros engelii, a hornwort](https://vicflora-cdn.rbg.vic.gov.au/assets/canto/highestres/o8a0t47hn93n78e1qdji36dp1l-20240328134333350.jpg)
 
-_Phaeoceros engleri_, a hornwort. Photograph: Daniel Ohlsen, Royal Botanic Gardens Victoria, [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+[_Phaeoceros engelii_](https://vicflora.rbg.vic.gov.au/flora/taxon/4d96e383-02d7-49e2-98e4-ed451a899c73), a hornwort. Photograph: Daniel Ohlsen, Royal Botanic Gardens Victoria, [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 <br/>
 
-![Plagiochasma rupestre, a thalloid liverwort](https://vicflora-cdn.rbg.vic.gov.au/assets/canto/preview/d3tv0c8te52fn01pn2717h8657-20241231101916709.jpg)
+![Plagiochasma rupestre, a thallose liverwort](https://vicflora-cdn.rbg.vic.gov.au/assets/canto/preview/d3tv0c8te52fn01pn2717h8657-20241231101916709.jpg)
 
-_Plachiochasma rupestre_, a thallose liverwort. Photograph: Daniel Ohlsen, Royal
+[_Plachiochasma rupestre_](https://vicflora.rbg.vic.gov.au/flora/taxon/02aa92fc-9511-4ff4-94a3-e370879a1f39), a thallose liverwort. Photograph: Daniel Ohlsen, Royal
 Botanic Gardens Victoria, [CC BY-NC-SA
 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 <br/>
 
-![liverworts: Trichocolea mollissima](https://vicflora-cdn.rbg.vic.gov.au/assets/canto/highestres/5gjfeodkid4ctfhc9sdrdgk46l-20240328144403347.jpg)
+![Trichocolea mollissima, a leafy liverwort](https://vicflora-cdn.rbg.vic.gov.au/assets/canto/highestres/5gjfeodkid4ctfhc9sdrdgk46l-20240328144403347.jpg)
 
-_Trichocolea mollissima_, a leafy liverwort. Photograph: Daniel Ohlsen, Royal Botanic Gardens Victoria, [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+[_Trichocolea mollissima_](https://vicflora.rbg.vic.gov.au/flora/taxon/4c08595e-fb14-4210-a7bf-3af2e9fd96dd), a leafy liverwort. Photograph: Daniel Ohlsen, Royal Botanic Gardens Victoria, [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 <br/>
 
-![mosses: Mniodendron
-comosum](https://vicflora-cdn.rbg.vic.gov.au/assets/canto/preview/1oocfobssh33nc5pluok7htj55-20241231102024955.jpg)
+![Mniodendron comosum, a moss](https://vicflora-cdn.rbg.vic.gov.au/assets/canto/preview/1oocfobssh33nc5pluok7htj55-20241231102024955.jpg)
 
-_Mniodendron comosum_, a moss. Photograph: Daniel Ohlsen, Royal Botanic Gardens
+[_Mniodendron comosum_](https://vicflora.rbg.vic.gov.au/flora/taxon/167735d1-3d6a-488a-b870-28352c0eb8e7), a moss. Photograph: Daniel Ohlsen, Royal Botanic Gardens
 Victoria, [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 <br/>
