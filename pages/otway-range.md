@@ -5,13 +5,13 @@ regions:
   - Otway Ranges
 map:
   alt: "Natural region map: Otway Range"
-  src: https://data.rbg.vic.gov.au/cip/preview/image/public/146888
+  src: "https://vicflora-cdn.rbg.vic.gov.au/assets/canto/preview/asn63qm0595el6uft9b1646g50-20240328131506631.jpg"
 images:
-  - src: https://data.rbg.vic.gov.au/cip/preview/image/library/69699?maxsize=512
+  - src: "https://vicflora-cdn.rbg.vic.gov.au/assets/canto/preview/61es0ps2vh2e1435kp1n0gk31m-20260110152023736.jpg"
     caption: >
       <b>Otway Range; cool temperate rainforest. Closed-forest of <i>Nothofagus 
       cunninghamii</i>, with <i>Dicksonia antarctica</i>. Melba Gully area.</b>
-  - src: https://data.rbg.vic.gov.au/cip/preview/image/library/69697?maxsize=512
+  - src: "https://vicflora-cdn.rbg.vic.gov.au/assets/canto/preview/rk08hk6cf53cnfhcnfbust590v-20260110152023863.jpg"
     caption: >
       <b>Otway Range; wet sclerophyl forest. Shrub stratum; <i>Acacia 
       melanoxylon</i>, <i>A. dealbata</i>, <i>Dicksonia antarctica</i>, 

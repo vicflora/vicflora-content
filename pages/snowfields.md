@@ -11,9 +11,9 @@ warning:
     into <b>Victorian Alps</b>.
 map: 
   alt: "Natural region map: Snowfields"
-  src: https://data.rbg.vic.gov.au/cip/preview/image/public/146864
+  src: "https://vicflora-cdn.rbg.vic.gov.au/assets/canto/preview/ince3oq2r56s58vm6344ps710q-20240328141059302.jpg"
 images:
-  - src: https://data.rbg.vic.gov.au/cip/preview/image/library/69707?maxsize=512
+  - src: "https://vicflora-cdn.rbg.vic.gov.au/assets/canto/preview/gt0inokpl96in9turhf9tor65o-20260110152021106.jpg"
     caption: >
       <b>Snowfields; heathland. Open-heath of <i>Grevillea australis</i> and
       <i>Orites lancifolia</i>, with grasses <i>Poa fawsettiae</i> and
@@ -21,7 +21,7 @@ images:
       <i>Eucalyptus delegatensis</i> forest to <i>E. pauciflora</i> and
       <i>E. niphophila</i> woodlands, to grasslands and heathlands on summit of
       Mt Fainter in middleground. Mt Bogong in background.
-  - src: https://data.rbg.vic.gov.au/cip/preview/image/library/69708?maxsize=512
+  - src: "https://vicflora-cdn.rbg.vic.gov.au/assets/canto/preview/rl4qj6b5pd12n7vbfgeje4gp35-20260110152021211.jpg"
     caption: >
       <b>Snowfields; heathland. Open-heath to herbfield on steep rocky slope.
       <i>Brachyscome spathulata</i>, <i>Craspedia</i> sp., <i>Grevillea

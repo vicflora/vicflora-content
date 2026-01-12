@@ -12,16 +12,16 @@ regions:
   - Otway Plain
 map:
   alt: "Natural region map: Otway Plain"
-  src: https://data.rbg.vic.gov.au/cip/preview/image/public/146866
+  src: "https://vicflora-cdn.rbg.vic.gov.au/assets/canto/preview/ujl53vegb92a11kca61ji7d03m.jpg"
 images:
-  - src: https://data.rbg.vic.gov.au/cip/preview/image/library/69694?maxsize=512
+  - src: "https://vicflora-cdn.rbg.vic.gov.au/assets/canto/preview/f1t0n3vdep4gt97sgg9ahm8t7d-20260110152023461.jpg"
     caption: >
       <b>Otway Plain; <i>Leptospermum myrsinoides</i> heathland. 
       Heathland/woodland with <i>Eucalyptus baxteri</i> over <i>Acacia 
       suaveolens</i>, <i>Banksia marginata</i>, <i>Dillwynia glaberrima</i>, 
       <i>Epacris impressa</i>, <i>Leptospermum myrsinoides</i> and 
       <i>Xanthorrhea minor</i>. Forest Reserve, Anglesea.</b>
-  - src: https://data.rbg.vic.gov.au/cip/preview/image/library/69698?maxsize=512
+  - src: "https://vicflora-cdn.rbg.vic.gov.au/assets/canto/preview/8ong7qqa9t2qrbvm1mitd72n49-20260110152023607.jpg"
     caption: >
       <b>Otway Plain; <i>Leptospermum mysinoides</i> heathland. Shrub-layer of 
       <i>Allocasuarina misera</i>, <i>Aotus myricoides</i>, <i>Banksia 

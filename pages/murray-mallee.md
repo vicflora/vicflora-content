@@ -13,21 +13,21 @@ regions:
   - Robinvale Plains
 map:
   alt: "Natural region map: Murray Mallee"
-  src: https://data.rbg.vic.gov.au/cip/preview/image/public/146874
+  src: "https://vicflora-cdn.rbg.vic.gov.au/assets/canto/preview/f6hp0tqvvl0o73jc6f8rv8k712.jpg"
 images:
-  - src: https://data.rbg.vic.gov.au/cip/preview/image/library/69676?maxsize=512
+  - src: "https://vicflora-cdn.rbg.vic.gov.au/assets/canto/preview/b57b55ii2t683cs5gg82287n52-20260110152020482.jpg"
     caption: >
       <b>Murray Mallee; east-west dune mallee. <i>Eucalyptus socialis</i> and 
       <i>E. leptophylla</i> with <i>Callitris verrucosa</i>, <i>Cryptandra 
       amara</i>, <i>Melaleuca lanceolata</i>, <i>Phebalium bullatum</i>. 
       Werrimull South, Sunset Country.</b>
-  - src: https://data.rbg.vic.gov.au/cip/preview/image/library/69678?maxsize=512
+  - src: "https://vicflora-cdn.rbg.vic.gov.au/assets/canto/preview/bemeuuhl892a511n36ud7d736n-20260110152021938.jpg"
     caption: >
       <b>Murray Mallee; Belah woodland. <i>Casuarina pauper</i> woodland with 
       <i>Myoporum platycarpum</i>, and understorey species <i>Hakea 
       leucoptera</i>, <i>Olearia muelleri</i>, <i>Senna artemisioides</i>, 
       <i>Scaevola spinescens</i>. Yarrara, Sunset Country</b>
-  - src: http://data.rbg.vic.gov.au/images/P/Library/69677?maxsize=512
+  - src: "https://vicflora-cdn.rbg.vic.gov.au/assets/canto/preview/fqkomuv7g141jbcmcb06e7ko3v-20260110152022099.jpg"
     caption: >
       <b>Murray Mallee; halophytic shrubland, <i>Melaleuca halmaturorum</i> 
       (Salt Paperbark) with low succulent shrubs and herbs, including 

@@ -12,15 +12,15 @@ regions:
   - Highlands-Northern Fall
 map:
   alt: "Natural region map: Eastern Highlands"
-  src: https://data.rbg.vic.gov.au/cip/preview/image/public/146860
+  src: "https://vicflora-cdn.rbg.vic.gov.au/assets/canto/preview/78upu8g6ft44d8dsdm50p4kg29.jpg"
 images:
-  - src: https://data.rbg.vic.gov.au/cip/preview/image/library/69696?maxsize=512
+  - src: "https://vicflora-cdn.rbg.vic.gov.au/assets/canto/preview/gp5p4vcvi542965g6e09jfsr53-20260110152024040.jpg"
     caption: >
       <b>Eastern Highlands; wet sclerophyll forest. <i>Eucalyptus regnans</i> 
       tall open-forest, with <i>E. viminalis</i> open-forest behind. Ground-layer 
       of <i>Lepidosperma elatius</i>, <i>Pteridium esculentum</i> and 
       <i>Tetrarrhena juncea</i>. Ada River area, near Noojee.</b>
-  - src: https://data.rbg.vic.gov.au/cip/preview/image/library/69700?maxsize=512
+  - src: "https://vicflora-cdn.rbg.vic.gov.au/assets/canto/preview/7aadahbnpt0of01hkgkj6rnb7a-20260110152024138.jpg"
     caption: >
       <b>Eastern Highlands; riparian forest. <i>Eucalyptus viminalis</i> and 
       <i>E. radiata</i> open-forest, with <i>Acacia melanoxylon</i>, 

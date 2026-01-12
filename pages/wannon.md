@@ -7,7 +7,7 @@ regions:
   - Dundas Tablelands
 map:
   alt: "Natural region map: Wannon"
-  src: https://data.rbg.vic.gov.au/cip/preview/image/public/146884
+  src: "https://vicflora-cdn.rbg.vic.gov.au/assets/canto/preview/i9mmrmdu2d4lrabb399tomrt53.jpg"
 permalink: /pages/wannon
 datePublished: 2022-03-08
 dateModified: 2022-10-09

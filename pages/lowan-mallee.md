@@ -5,9 +5,9 @@ regions:
   - Lowan Mallee
 map: 
   alt: "Natural region map: Lowan Mallee"
-  src: https://data.rbg.vic.gov.au/cip/preview/image/public/146880
+  src: "https://vicflora-cdn.rbg.vic.gov.au/assets/canto/preview/qcdfgdsa1h12f5c2n2sn8pud5m.jpg"
 images:
-  - src: https://data.rbg.vic.gov.au/cip/preview/image/library/69681?maxsize=512
+  - src: "https://vicflora-cdn.rbg.vic.gov.au/assets/canto/preview/qnkm3q8t2p17rehs7o4e3rag1f-20260110152022323.jpg"
     caption: >
       <b>Lowan Mallee; sandstone rise broombush. Shrubland of <i>Melaleuca 
       uncinata</i> and <i>Baeckea behrii</i> on and flanking laterite outcrop, 

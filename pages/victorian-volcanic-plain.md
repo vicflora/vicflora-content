@@ -5,14 +5,14 @@ regions:
   - Victorian Volcanic Plain
 map:
   alt: "NMatural region map: Victorian Volcanic Plain"
-  src: https://data.rbg.vic.gov.au/cip/preview/image/public/146872
+  src: "https://vicflora-cdn.rbg.vic.gov.au/assets/canto/preview/gs9v22m6f938j2bi58npuvmd66.jpg"
 images:
-  - src: https://data.rbg.vic.gov.au/cip/preview/image/library/69692?maxsize=512
+  - src: "https://vicflora-cdn.rbg.vic.gov.au/assets/canto/preview/va5j4ag5fd443ajp4l3du15h29-20260110152023120.jpg"
     caption: >
       <b>Victorian Volcanic Plain; grassland. <i>Danthonia</i> spp., 
       <i>Stipa</i> spp., <i>Themeda triandra</i>, with forbs <i>Calocephalus 
       citreus</i> and <i>Convolvulus erubescens</i>. Taylors Lakes.</b>
-  - src: https://data.rbg.vic.gov.au/cip/preview/image/library/69693?maxsize=512
+  - src: "https://vicflora-cdn.rbg.vic.gov.au/assets/canto/preview/1u14k4gel53kh2ngqace02bf0k-20260110152023221.jpg"
     caption: >
       <b>Victorian Volcanic Plain; grassland. Herb rich <i>Themeda</i> grassland 
       with <i>Acaena echinata</i>, <i>Chrysocephalum apiculatum</i>, 

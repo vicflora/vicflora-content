@@ -11,16 +11,16 @@ regions:
   - Strzelecki Ranges
 map:
   alt: "Natural region: Gippsland Highlands"
-  src: https://data.rbg.vic.gov.au/cip/preview/image/public/146858 
+  src: https://vicflora-cdn.rbg.vic.gov.au/assets/canto/preview/sddjfdei4l0kn19s6iffs8l77q.jpg 
 images:
-  - src: https://data.rbg.vic.gov.au/cip/preview/image/library/69702?maxsize=512
+  - src: "https://vicflora-cdn.rbg.vic.gov.au/assets/canto/preview/3hbg9569pd51vcbt606emv1s2a-20260110152020609.jpg"
     caption: >
       <b>Gippsland Highlands; cool temparate rainforest. <i>Atherosperma 
       moschatum</i> and <i>Nothofagus cunninghamii</i> canopy, with tree-ferns 
       <i>Dicksonia antarctica</i>, and epiphytes <i>ieldia australis</i> and 
       <i>Microsorum pustulatum</i>. Near Macks Creek, Tarra–Bulga National 
       Park.</b>
-  - src: https://data.rbg.vic.gov.au/cip/preview/image/library/69705?maxsize=512
+  - src: "https://vicflora-cdn.rbg.vic.gov.au/assets/canto/preview/0m0t809g4t3rp8lj2rq5lhso7e-20260110152020585.jpg"
     caption: >
       <b>Gippsland Highlands; wet sclerophyll forest. <i>Eucalyptus regnans</i> 
       tall open-forest, with <i>Bedfordia arborescens</i>, <i>Cassinia 

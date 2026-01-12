@@ -10,9 +10,9 @@ regions:
   - Greater Grampians
 map:
   alt: "Natural region map: Grampians"
-  src: https://data.rbg.vic.gov.au/cip/preview/image/public/146878
+  src: "https://vicflora-cdn.rbg.vic.gov.au/assets/canto/preview/mahguvnvr53lt69gfn68vhgj7b.jpg"
 images:
-  - src: https://data.rbg.vic.gov.au/cip/preview/image/library/69688?maxsize=512
+  - src: "https://vicflora-cdn.rbg.vic.gov.au/assets/canto/preview/dp2dpbu0bp1hf3sfeeaueivf2j-20260110152022490.jpg"
     caption: >
       <b>Grampians; dry forest and woodlands. Mitre Rock (foreground) and Mt 
       Arapiles, with intervening wheat paddocks. <i>Callitris glaucophylla</i>, 

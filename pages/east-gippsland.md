@@ -15,9 +15,9 @@ regions:
   - East Gippsland Lowlands
 map:
   alt: "Natural region map: East Gippsland"
-  src: "https://data.rbg.vic.gov.au/cip/preview/image/public/146868"
+  src: "https://vicflora-cdn.rbg.vic.gov.au/assets/canto/preview/d7b9ektvgp17l1n7n4u1l1355p.jpg"
 images:
-  - src: https://data.rbg.vic.gov.au/cip/preview/image/library/69709?maxsize=512
+  - src: "https://vicflora-cdn.rbg.vic.gov.au/assets/canto/preview/etc5qsh9bh139dn0ttb650774i-20260110152021356.jpg"
     caption: >
       <b>East Gippsland; rainshadow woodland. <i>Eucalyptus albens</i> woodland, 
       with some <i>Callitris glaucophylla</i> on lower slopes. <i>Acacia 
@@ -25,13 +25,13 @@ images:
       <i>Kunzea ericoides</i> and <i>Salix alba</i> beside river, with 
       orange-flowered <i>Eschscholsia californica</i> on beaches. Upper Snowy 
       River.</b>
-  - src: https://data.rbg.vic.gov.au/cip/preview/image/library/69711?maxsize=512
+  - src: "https://vicflora-cdn.rbg.vic.gov.au/assets/canto/preview/65q9gbr00l4v7f139et0pr6e2a-20260110152021647.jpg"
     caption: >
       <b>East Gippsland; warm temperate rainforest. <i>Acmena smithii</i>, 
       <i>Tristaniopsis laurina</i> canopy, overgrown by liane <i>Cissus 
       hypoglauca</i>. Wet sclerophyll forest in background. Martins Creek, 
       Bonang Highway.</b>
-  - src: https://data.rbg.vic.gov.au/cip/preview/image/library/69710?maxsize=512
+  - src: "https://vicflora-cdn.rbg.vic.gov.au/assets/canto/preview/ql836l3a7l5ohc0vi0fll03p17-20260110152021737.jpg"
     caption: >
       <b>East Gippsland; cool temparate rainforest. Characteristic conical trees 
       of <i>Atherospermum moschatum</i>, with <i>Dicksonia antarctica</i> and 

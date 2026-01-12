@@ -13,15 +13,15 @@ regions:
   - Northern Inland Slopes
 map: 
   alt: "Natural region map: Midlands"
-  src: https://data.rbg.vic.gov.au/cip/preview/image/public/146882
+  src: "https://vicflora-cdn.rbg.vic.gov.au/assets/canto/preview/729t9klmgd1j99022i7d1joa21.jpg"
 images:
-  - src: https://data.rbg.vic.gov.au/cip/preview/image/library/69691?maxsize=512
+  - src: "https://vicflora-cdn.rbg.vic.gov.au/assets/canto/preview/23e1cif2v55cf4dbvv1k659p6j-20260110152022865.jpg"
     caption: >
       <b>Midlands; dry open-forest. <i>Eucalyptus macrorhyncha</i> and <i>E.
       polyanthemos</i>, with heathy shrub-layer, <i>Brachyloma daphnoides</i>,
       <i>Dillwynia phylicoides</i> and <i>Tetratheca ciliata</i>. Near
       Alexandra.</b>
-  - src: https://data.rbg.vic.gov.au/cip/preview/image/library/69690?maxsize=512
+  - src: "https://vicflora-cdn.rbg.vic.gov.au/assets/canto/preview/8lam9me2i11irf9rgof6dh9k2b-20260110152023027.jpg"
     caption: >
       <b>Midlands; dry open-forest, <i>Eucalyptus microcarpa</i> and <i>E.
       tricarpa</i>, with open understorey, including <i>Acacia acinacea</i>,

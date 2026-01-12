@@ -5,15 +5,15 @@ regions:
   - Wilsons Promontory
 map: 
   alt: "Natural region map: Wilsons Promontory"
-  src: https://data.rbg.vic.gov.au/cip/preview/image/public/146862
+  src: "https://vicflora-cdn.rbg.vic.gov.au/assets/canto/preview/ph2qtembqt2jdasgpa29c0355g-20240328144114700.jpg"
 images:
-  - src: https://data.rbg.vic.gov.au/cip/preview/image/library/69704?maxsize=512
+  - src: "https://vicflora-cdn.rbg.vic.gov.au/assets/canto/preview/9vshrp5ub919pafi11k6tm7c2k-20260110152020675.jpg"
     caption: >
       <b>Wilsons Promontory; heathland. <i>Allocasuarina paludosa</i>, 
       <i>Banksia marginata</i>, <i>Lepidospermum laterale</i> and 
       <i>Leptospermum continentale</i>, with thickets of low <i>Eucalyptus 
       baxteri</i>. North-east coast, Five-mile Beach in background.</b>
-  - src: https://data.rbg.vic.gov.au/cip/preview/image/library/69706?maxsize=512
+  - src: "https://vicflora-cdn.rbg.vic.gov.au/assets/canto/preview/mdjehm772l31128grkj0ijun06-20260110152021023.jpg"
     caption: >
       <b>Wilsons Promontory; coastal granite outcrop. Shrubs and herbs in 
       salt-spray zone: <i>Chrysocephalum semipapposum</i>, <i>Correa alba</i>, 

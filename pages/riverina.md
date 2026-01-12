@@ -12,14 +12,14 @@ regions:
   - Murray Fans
 map: 
   alt: "Natural region map: Riverina"
-  src: https://data.rbg.vic.gov.au/cip/preview/image/public/146886
+  src: "https://vicflora-cdn.rbg.vic.gov.au/assets/canto/preview/gfbjscssod5sl0rkt4hf11r84t-20240328140422594.jpg"
 images:
-  - src: https://data.rbg.vic.gov.au/cip/preview/image/library/69689?maxsize=512
+  - src: "https://vicflora-cdn.rbg.vic.gov.au/assets/canto/preview/ftpoa6ship3khc61dth7fkpv3s-20260110152022563.jpg"
     caption: >
       <b>Riverina; open forest. <i>Eucalyptus camaldulensis</i>, with aquatic 
       herbs <i>Myriophyllum</i> and <i>Triglochin</i>. <i>Pseudoraphis 
       spinescens</i> grassland in background. Gunbower Island.</b>
-  - src: https://data.rbg.vic.gov.au/cip/preview/image/library/69687?maxsize=512
+  - src: "https://vicflora-cdn.rbg.vic.gov.au/assets/canto/preview/kvpfrjhnch0qnfpp4fk3nlf26b-20260110152022715.jpg"
     caption: >
       <b>Riverina; woodland. <i>Eucalyptus melliodora</i> and <i>E. 
       microcarpa</i>, grassy woodland remnant, with sparse understorey including 

@@ -5,16 +5,16 @@ regions:
   - Gippsland Plain
 map:
   alt: "Natural region map: Gippsland Plain"
-  src: "https://data.rbg.vic.gov.au/cip/preview/image/public/146870"
+  src: "https://vicflora-cdn.rbg.vic.gov.au/assets/canto/preview/sur0v3spil3g94p2c9npbh460e.jpg"
 images:
-  - src: https://data.rbg.vic.gov.au/cip/preview/image/library/69701?maxsize=512
+  - src: "https://vicflora-cdn.rbg.vic.gov.au/assets/canto/preview/kickevpbbd22r457ha6drh6u5o-20260110152024286.jpg"
     caption: >
       <b>Gippsland Plain; <i>Leptospermum myrsinoides</i> heathland/woodland. 
       <i>Eucalyptus willisii</i> woodland, with heathy understorey including 
       <i>Banksia marginata</i>, <i>Leptospermum myrsinoide</i>, <i>Monotoca 
       scoparia</i>, <i>Pteridium esculentum</i>, <i>Ricinocarpus pinifolius</i> 
       and <i>Xanthorrhoea minor</i>. Holey Plains State Park.</b>
-  - src: https://data.rbg.vic.gov.au/cip/preview/image/library/69703?maxsize=512
+  - src: "https://vicflora-cdn.rbg.vic.gov.au/assets/canto/preview/dcog5ktrqd66reltk7ea0p2a39-20260110152020532.jpg"
     caption: >
       <b>Gippsland Plain; saltmarsh-mangrove. Saltmarsh in foreground with 
       <i>Sarcocornia quinqueflora</i>, <i>Sclerostegia arbuscula</i> and 
